@@ -699,7 +699,8 @@ h1, h2, h3, h4, h5, p {
 
   .main-logo {
     width: 100%;
-    margin-bottom: 30px; } }
+    margin-bottom: 30px;
+    margin-top: 0; } }
 /* End Desktops */
 /*-----------------  Smartphones  -----------------*/
 @media (max-device-width: 519px) {
@@ -708,7 +709,8 @@ h1, h2, h3, h4, h5, p {
 
   .main-logo {
     width: 100%;
-    margin-bottom: 30px; } }
+    margin-bottom: 30px;
+    margin-top: 0; } }
 /* End Smartphones */
 /* END: Imports */
 /**
