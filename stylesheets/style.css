@@ -696,6 +696,10 @@ h1, h2, h3, h4, h5, p {
 @media screen and (max-width: 635px) {
   .main-content {
     padding: 30px !important; }
+    .main-content h1 {
+      font-size: 40px !important; }
+    .main-content h2 {
+      font-size: 30px !important; }
 
   .main-logo {
     width: 100%;
@@ -705,6 +709,10 @@ h1, h2, h3, h4, h5, p {
 @media (max-device-width: 519px) {
   .main-content {
     padding: 30px !important; }
+    .main-content h1 {
+      font-size: 40px !important; }
+    .main-content h2 {
+      font-size: 30px !important; }
 
   .main-logo {
     width: 100%;
