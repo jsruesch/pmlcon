@@ -699,8 +699,7 @@ h1, h2, h3, h4, h5, p {
 
   .main-logo {
     width: 100%;
-    margin-bottom: 30px;
-    margin-top: 0; } }
+    margin-top: 0 !important; } }
 /* End Desktops */
 /*-----------------  Smartphones  -----------------*/
 @media (max-device-width: 519px) {
@@ -709,8 +708,7 @@ h1, h2, h3, h4, h5, p {
 
   .main-logo {
     width: 100%;
-    margin-bottom: 30px;
-    margin-top: 0; } }
+    margin-top: 0 !important; } }
 /* End Smartphones */
 /* END: Imports */
 /**
@@ -844,7 +842,8 @@ h2 {
     transform-origin: 75%; }
 
 .main-logo {
-  margin: 60px 0 30px 0; }
+  margin-top: 60px;
+  margin-bottom: 30px; }
 
 /* END: Elements */
 /**
