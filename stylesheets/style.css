@@ -699,10 +699,16 @@ h1, h2, h3, h4, h5, p {
 
   .main-logo {
     width: 100%;
-    margin-bottom: 30px;
-    margin-top: 30px; } }
+    margin-bottom: 30px; } }
 /* End Desktops */
 /*-----------------  Smartphones  -----------------*/
+@media (max-device-width: 519px) {
+  .main-content {
+    padding: 30px !important; }
+
+  .main-logo {
+    width: 100%;
+    margin-bottom: 30px; } }
 /* End Smartphones */
 /* END: Imports */
 /**
