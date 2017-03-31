@@ -20,17 +20,19 @@
       <!-- Portraits -->
       <div class="row wow fadeInUp" data-wow-delay=".95s">
         <!-- David Gagnon -->
-        <div class="col-5 pad10">
-          <div class="row">
-            <img class="full" src="img/portraits/portrait-david.png" />
+        <a href="https://www.fielddaylab.org/" target="_blank">
+          <div class="col-5 pad10">
+            <div class="row">
+              <img class="full" src="img/portraits/portrait-david.png" />
+            </div>
+            <div class="full pad10 bg-white geocontainer">
+              <h3 class="text-center text-dblue">David<br />Gagnon</h3>
+              <h5 class="text-mblue text-center bold">
+                Field Day
+              </h5>
+            </div>
           </div>
-          <div class="full pad10 bg-white geocontainer">
-            <h3 class="text-center text-dblue">David<br />Gagnon</h3>
-            <h5 class="text-mblue text-center bold">
-              Field Day
-            </h5>
-          </div>
-        </div>
+        </a>
         <!-- Rich Halverson -->
         <a href="http://personalizationinpractice.org/" target="_blank">
           <div class="col-5 pad10">
