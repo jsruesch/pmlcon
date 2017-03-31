@@ -72,6 +72,8 @@
   */
 
 .main-content{ position: relative; z-index: 99;}
+.full{ @include full; }
+
  .clear{ clear: both; }
  .left{  float: left; }
  .right{ float: right; }
@@ -85,11 +87,18 @@
      padding-right: 10px;
      padding-left: 10px;
  }
- .col-xs-15{
+ .col-xs-15,
+ .col-sm-15,
+ .col-md-15,
+ .col-lg-15{
    width: 20%;
    float: left;
  }
 
+.col-5{
+  width: 20%;
+  float: left;
+}
  /* END: Utility Classes */
 
 
@@ -148,6 +157,35 @@
       bottom: 0;
       transform: skewY(-3.9deg);
       transform-origin: 75%;
+    }
+  }
+
+  .geocontainer-02{
+    position: relative;
+
+    &:before,
+    &:after {
+      background: inherit;
+      content: '';
+      display: block;
+      height: 50%;
+      left: 0;
+      position: absolute;
+      right: 0;
+      z-index: -1;
+      -webkit-backface-visibility: hidden; // for Chrome Windows
+    }
+
+    &:before {
+      top: 0;
+      transform: skewY(-3.9deg);
+      transform-origin: 25% 100%;
+    }
+
+    &:after {
+      bottom: 0;
+      transform: skewY(4deg);
+      transform-origin: 55%;
     }
   }
 

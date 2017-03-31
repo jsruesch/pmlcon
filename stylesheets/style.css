@@ -694,6 +694,9 @@ h1, h2, h3, h4, h5, p {
     padding: 35px !important; } }
 /*-----------------  Desktops  -----------------*/
 @media screen and (max-width: 635px) {
+  .col-5 {
+    width: 50% !important; }
+
   .main-content {
     padding: 30px !important; }
     .main-content h1 {
@@ -704,9 +707,18 @@ h1, h2, h3, h4, h5, p {
   .main-logo {
     width: 100%;
     margin-top: 0 !important; } }
+@media (min-width: 635px) and (max-width: 770px) {
+  .col-5 {
+    width: 33% !important; } }
+@media (min-device-width: 519px) and (max-devide-width: 770px) {
+  .col-5 {
+    width: 33% !important; } }
 /* End Desktops */
 /*-----------------  Smartphones  -----------------*/
 @media (max-device-width: 519px) {
+  .col-5 {
+    width: 50% !important; }
+
   .main-content {
     padding: 30px !important; }
     .main-content h1 {
@@ -781,6 +793,10 @@ h2 {
   position: relative;
   z-index: 99; }
 
+.full {
+  width: 100%;
+  float: left; }
+
 .clear {
   clear: both; }
 
@@ -800,7 +816,14 @@ h2 {
   padding-right: 10px;
   padding-left: 10px; }
 
-.col-xs-15 {
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+  width: 20%;
+  float: left; }
+
+.col-5 {
   width: 20%;
   float: left; }
 
@@ -848,6 +871,27 @@ h2 {
     bottom: 0;
     transform: skewY(-3.9deg);
     transform-origin: 75%; }
+
+.geocontainer-02 {
+  position: relative; }
+  .geocontainer-02:before, .geocontainer-02:after {
+    background: inherit;
+    content: '';
+    display: block;
+    height: 50%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    z-index: -1;
+    -webkit-backface-visibility: hidden; }
+  .geocontainer-02:before {
+    top: 0;
+    transform: skewY(-3.9deg);
+    transform-origin: 25% 100%; }
+  .geocontainer-02:after {
+    bottom: 0;
+    transform: skewY(4deg);
+    transform-origin: 55%; }
 
 .main-logo {
   margin-top: 60px;

@@ -8,6 +8,9 @@
 
 /*-----------------  Desktops  -----------------*/
 @media screen and (max-width:635px){
+  .col-5{
+    width: 50% !important;
+  }
 
   .main-content{
     padding: 30px !important;
@@ -16,12 +19,19 @@
   }
   .main-logo{ width: 100%; margin-top: 0 !important;  }
 }
-@media (min-width: 635px) and (max-width:770px){  }
-@media (min-device-width: 519px) and (max-devide-width:770px){  }
+@media (min-width: 635px) and (max-width:770px){
+  .col-5{ width: 33% !important;}
+}
+@media (min-device-width: 519px) and (max-devide-width:770px){
+  .col-5{ width: 33% !important;}
+}
 /* End Desktops */
 
 /*-----------------  Smartphones  -----------------*/
 @media (max-device-width: 519px) {
+  .col-5{
+    width: 50% !important;
+  }
   .main-content{
     padding: 30px !important;
     h1{ font-size: 40px !important; }
@@ -29,4 +39,5 @@
   }
   .main-logo{ width: 100%; margin-top: 0 !important; }
  }
+
 /* End Smartphones */
