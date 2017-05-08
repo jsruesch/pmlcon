@@ -27,12 +27,13 @@
  * =========================================
  */
 
- $white:  #ffffff;
- $dblue:  #253D66;
- $ddblue: #000C30;
- $mblue:  #236B8F;
- $lblue:  #9AB4D4;
- $orange: #EF8F5C;
+ $white:    #ffffff;
+ $dblue:    #253D66;
+ $ddblue:   #000C30;
+ $mblue:    #236B8F;
+ $lblue:    #9AB4D4;
+ $orange:   #EF8F5C;
+ $owhite:   rgba(255,255,255,.08);
 
  /* END Variables */
 
@@ -51,6 +52,7 @@
  .text-orange{  color: $orange !important; }
 
  .bg-white{   background: $white; }
+ .bg-owhite{  background: $owhite; }
  .bg-dblue{   background: $dblue; }
  .bg-ddblue{  background: $ddblue; }
  .bg-mblue{   background: $mblue; }

@@ -5,20 +5,54 @@
 -->
   <div class="container-fluid main-content">
     <div class="container">
-      <div class="row pad60 wow fadeInUp" data-wow-delay=".35s">
-        <img class="center-block main-logo" src="img/logo.png" />
-      </div>
-
-      <div class="row wow fadeInUp mar60-bot" data-wow-delay=".65s">
-        <div class="col-sm-6 col-sm-offset-3 geocontainer pad60 bg-white text-center">
-          <h1 class="text-orange">Save the Date!</h1>
-          <h2 class="text-mblue">August 14, 2017</h2>
-          <h3 class="text-dblue">Union South Madison, WI</h3>
+    <!-- Header -->
+      <div class="row pad60">
+        <div class="col-sm-6">
+          <img class="center-block main-logo" src="img/logo.png" />
+        </div>
+        <div class="col-sm-6 pad60 mar50-top bg-white">
+          <div class="row text-center">
+            <h2 class="text-mblue">August 14, 2017</h2>
+            <h3 class="text-dblue">Union South Madison, WI</h3>
+          </div>
+          <div class="row mar20-top mar20-bot">
+            <a href="" class="button bg-orange text-white">Register Here</a>
+          </div>
+          <div class="row">
+            <p class="text-dblue">
+              Registration for this one day event is <span class="text-orange text-bold">$50</span> and covers all costs associated with the conference.
+            </p>
+          </div>
+        </div>
+      </div><!-- END: Header -->
+    <!-- Nav Buttons -->
+      <div class="row">
+        <div class="col-sm-3 pad10">
+          <div class="row">
+            <a href="" class="button bg-ddblue text-white"><span class="text-orange"><i class="fa fa-calendar" aria-hidden="true"></i></span> Schedule</a>
+          </div>
+        </div>
+        <div class="col-sm-3 pad10">
+          <div class="row">
+            <a href="" class="button bg-ddblue text-white"><span class="text-orange"><i class="fa fa-bed" aria-hidden="true"></i></span> Lodging</a>
+          </div>
+        </div>
+        <div class="col-sm-3 pad10">
+          <div class="row">
+            <a href="" class="button bg-ddblue text-white"><span class="text-orange"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote</a>
+          </div>
+        </div>
+        <div class="col-sm-3 pad10">
+          <div class="row">
+            <a href="" class="button bg-ddblue text-white"><span class="text-orange"><i class="fa fa-book" aria-hidden="true"></i></span> Our Story</a>
+          </div>
         </div>
       </div>
-
-      <!-- Portraits -->
-      <div class="row wow fadeInUp" data-wow-delay=".95s">
+      <div class="row pad10">
+        <a href="" class="button bg-orange text-white">Call for Posters! Click here to submit yours!</a>
+      </div><!-- END: Nav Buttons -->
+    <!-- Portraits -->
+      <div class="row">
         <!-- David Gagnon -->
         <a href="https://www.fielddaylab.org/" target="_blank">
           <div class="col-5 pad10">
@@ -90,18 +124,17 @@
           </div>
         </a>
       </div><!-- END: Portraits -->
-
-      <!-- Overview -->
+    <!-- Overview -->
       <div class="row mar60-top">
-        <div class="col-sm-12 geocontainer bg-ddblue pad60">
+        <div class="col-sm-12 bg-ddblue pad60">
           <div class="row mar20-bot">
-            <h2 class="text-orange">Conference Agenda Overview</h2>
+            <h2 class="text-orange"><span class="text-white"><i class="fa fa-calendar" aria-hidden="true"></i></span> Conference Agenda Overview</h2>
           </div>
-          <div class="row mar20-bot">
-            <h3 class="text-white">Sunday, August 13 Evening event at Filament Games</h3>
+          <div class="row mar20-bot bg-owhite pad20">
+            <h3 class="text-white">Sunday, August 13 Evening event at <span class="text-orange">Filament Games</span></h3>
           </div>
-          <div class="row">
-            <h3 class="text-white mar10-bot">Monday, August 14 Conference at Union South</h3>
+          <div class="row bg-owhite pad20">
+            <h3 class="text-white mar10-bot">Monday, August 14 Conference at <span class="text-orange">Union South</span></h3>
             <ul class="disc text-lblue">
               <li>Breakfast / Keynote / Poster Fair</li>
               <li>Sessions / Makerspace / Game Jam</li>
@@ -112,12 +145,116 @@
           </div>
         </div>
       </div><!-- END: Overview -->
-
-      <!-- Sponsors -->
-      <div class="row mar60-top">
-        <div class="col-sm-12 geocontainer-02 bg-white pad60">
+    <!-- Keynote -->
+      <div class="row bg-white pad60">
+        <div class="row pad10-left">
+          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speaker</h2>
+        </div>
+        <div class="col-sm-6">
+          <div class="row pad10">
+            <img class="full" src="img/portraits/portrait-nichole-pinnkard.png" />
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="row pad10">
+            <h3 class="text-mblue">Nichole Pinkard</h3>
+            <hr />
+            <p class="text-dblue">
+              <a class="text-orange" href="http://digitalyouthnetwork.org/staff/nichole-pinkard/" target="_blank">Nichole Pinkard</a> is an Associate Professor in the College of Computing and Digital Media at DePaul University in Chicago. She is the founder of <a class="text-orange" href="http://www.digitalyouthnetwork.org/" target="_blank">Digital Youth Network</a>, co-founder of Inquirium LLC and Remix Learning, home of iRemix, a social learning platform that connects youth's learning opportunities in school, home, and beyond.
+            </p>
+          </div>
+        </div>
+      </div><!-- END: Keynote -->
+    <!-- Story -->
+      <div class="row">
+        <div class="col-sm-12 bg-ddblue pad60">
+          <div class="row pad10">
+            <h2 class="text-orange mar10-bot"><span class="text-white"><i class="fa fa-book" aria-hidden="true"></i></span> Our Story</h2>
+            <p class="text-large text-lblue">
+              The Play Make Learn Collective stemmed from the collective interest in creating an innovative conference to promote play and learning research, industry, and practice.
+            </p>
+          </div>
+          <!-- PML Points -->
+          <div class="row">
+            <div class="col-sm-4 pad10">
+              <div class="row bg-owhite pad20">
+                <h2 class="text-white text-center">Play</h2>
+                <p class="text-lblue">
+                  Exciting new games and game systems will available for playing
+                </p>
+              </div>
+            </div>
+            <div class="col-sm-4 pad10">
+              <div class="row bg-owhite pad20">
+                <h2 class="text-white text-center">Make</h2>
+                <p class="text-lblue">
+                  Maker labs and game jams will parallel the sessions all day
+                </p>
+              </div>
+            </div>
+            <div class="col-sm-4 pad10">
+              <div class="row bg-owhite pad20">
+                <h2 class="text-white text-center">Learn</h2>
+                <p class="text-lblue">
+                  Presentations and discussions around gaming, making, and personalized learning
+                </p>
+              </div>
+            </div>
+          </div><!-- END: PML Points -->
+        <!-- Focus -->
+        <hr />
+          <div class="row">
+            <div class="row pad10">
+              <h2 class="text-orange">Conference Focus</h2>
+            </div>
+            <div class="row">
+              <!-- Gaming -->
+              <div class="col-sm-4 pad10">
+                <div class="row bg-owhite pad20">
+                  <h2 class="text-white text-center">Gaming</h2>
+                  <ul class="disc text-lblue">
+                    <li>Game design</li>
+                    <li>Learning Games</li>
+                    <li>ARIS</li>
+                    <li>Field Day</li>
+                    <li>Gear Learning</li>
+                    <li>Games industry</li>
+                    <li>Games in K-12</li>
+                    <li>Games in Higher Ed</li>
+                  </ul>
+                </div>
+              </div><!-- END: Gaming -->
+              <!-- Making -->
+              <div class="col-sm-4 pad10">
+                <div class="row bg-owhite pad20">
+                  <h2 class="text-white text-center">Making</h2>
+                  <ul class="disc text-lblue">
+                    <li>Making in a school district</li>
+                    <li>Making at a tech school</li>
+                    <li>Making at a public library</li>
+                  </ul>
+                </div>
+              </div><!-- END: Making -->
+              <!-- Personalized Learning -->
+              <div class="col-sm-4 pad10">
+                <div class="row bg-owhite pad20">
+                  <h2 class="text-white text-center">Personilized Learning</h2>
+                  <ul class="disc text-lblue">
+                    <li>Conferring in personalized learning settings</li>
+                    <li>Current research on personalized learning practices</li>
+                    <li>CESA 1 personalized learning model</li>
+                  </ul>
+                </div>
+              </div><!-- END: Personalized Learning -->
+            </div><!-- /.row -->
+          </div><!-- END: Focus -->
+        </div><!-- /.col-sm-12 -->
+      </div><!-- END: Story -->
+    <!-- Sponsors -->
+      <div class="row">
+        <div class="col-sm-12 bg-white pad60">
           <div class="row mar20-bot">
-            <h2 class="text-orange">Sponsors</h2>
+            <h2 class="text-orange mar10-bot"><span class="text-dblue"><i class="fa fa-handshake-o" aria-hidden="true"></i></span> Sponsors</h2>
             <p class="text-dblue">
               Play Make Learn is proud of its many sponsors including the Wisconsin Department of Public Instruction, Education Outreach and Partnerships, The Network, School Of Education, and Wisconsin Center for Education Research.
             </p>
@@ -128,11 +265,27 @@
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-soe.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-eop.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-dpi.png" /></div>
-
           </div>
         </div>
       </div><!-- END: Sponsors -->
-
+    <!-- Came to Be -->
+      <div class="row">
+        <div class="col-sm-12 bg-ddblue pad60">
+          <div class="row pad10">
+            <h2 class="text-orange mar10-bot">How Play Make Learn came to be</h2>
+            <p class="text-large text-lblue">
+              This conference grew out of partnerships among <strong class="text-white">Games + Learning + Society</strong>, <strong class="text-white">Filament Games</strong>, the <strong class="text-white">Learning Games Network</strong>, the <strong class="text-white">Playful Learning Conference</strong>, the <strong class="text-white">Wisconsin Collaborative Education Research Network</strong> and others who see a need to collaborate around making, playing, and learning in research, industry, and practice.
+            </p>
+            <ul class="disc text-lblue mar10-top">
+              <li>Filament Games</li>
+              <li>Field Day</li>
+              <li>Gear Learning</li>
+              <li>Leearning in the Making</li>
+              <li>Peronalization in Practice</li>
+            </ul>
+          </div>
+        </div>
+      </div><!-- END: Came to Be -->
     </div><!-- /.container -->
   </div><!-- /.container-fluid .main-content -->
 <!-- END: Main Content -->

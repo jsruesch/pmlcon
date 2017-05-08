@@ -42,11 +42,22 @@
 
  a{  }
 
+ p{
+   a{
+     font-weight: 600;
+   }
+ }
+
  p, li{ font-family: "open-sans",sans-serif; font-size: 18px; }
 
  ul{ list-style:none; }
 
- hr{  }
+ hr{
+  @include full;
+  margin: 15px 0 !important;
+  border-top: 1px dotted rgba(35, 107, 143, .4) !important;
+  height: 0px !important;
+}
 
  h1, h2, h3, h4, h5, h6{
   font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
@@ -57,6 +68,7 @@
 
  h1{ font-size: 55px !important; }
  h2{ font-size: 40px !important; }
+ h3{ font-size: 30px !important; }
 
  table tr{  }
 
@@ -100,6 +112,7 @@
   float: left;
 }
 
+.text-bold{ font-weight: 900; }
 .disc{ list-style: disc; padding-left: 20px; }
  /* END: Utility Classes */
 
@@ -120,76 +133,94 @@
   * =========================================
   */
 
-  .geopattern{
-    position: absolute;
-    z-index: 0;
-    height: 100%;
-    width: 100%;
-    top: 0;
-    bottom: 0;
-    right: 0;
+.button{
+  @include full;
+  @include transition;
+  padding: 20px;
+  font-size: 25px;
+  font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-align: center;
+
+  &:hover{
+    @include transition;
+    text-decoration: none;
+    opacity: .75;
+  }
+}
+
+.geopattern{
+  position: absolute;
+  z-index: 0;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background: url(../img/geopattern.svg);
+  opacity: .04;
+}
+
+.geocontainer{
+  position: relative;
+
+  &:before,
+  &:after {
+    background: inherit;
+    content: '';
+    display: block;
+    height: 50%;
     left: 0;
-    background: url(../img/geopattern.svg);
-    opacity: .04;
+    position: absolute;
+    right: 0;
+    z-index: -1;
+    -webkit-backface-visibility: hidden; // for Chrome Windows
   }
 
-  .geocontainer{
-    position: relative;
-
-    &:before,
-    &:after {
-      background: inherit;
-      content: '';
-      display: block;
-      height: 50%;
-      left: 0;
-      position: absolute;
-      right: 0;
-      z-index: -1;
-      -webkit-backface-visibility: hidden; // for Chrome Windows
-    }
-
-    &:before {
-      top: 0;
-      transform: skewY(-3.9deg);
-      transform-origin: 25% 100%;
-    }
-
-    &:after {
-      bottom: 0;
-      transform: skewY(-3.9deg);
-      transform-origin: 75%;
-    }
+  &:before {
+    top: 0;
+    transform: skewY(-3.9deg);
+    transform-origin: 25% 100%;
   }
 
-  .geocontainer-02{
-    position: relative;
-
-    &:before,
-    &:after {
-      background: inherit;
-      content: '';
-      display: block;
-      height: 50%;
-      left: 0;
-      position: absolute;
-      right: 0;
-      z-index: -1;
-      -webkit-backface-visibility: hidden; // for Chrome Windows
-    }
-
-    &:before {
-      top: 0;
-      transform: skewY(-3.9deg);
-      transform-origin: 25% 100%;
-    }
-
-    &:after {
-      bottom: 0;
-      transform: skewY(4deg);
-      transform-origin: 55%;
-    }
+  &:after {
+    bottom: 0;
+    transform: skewY(-3.9deg);
+    transform-origin: 75%;
   }
+}
+
+.geocontainer-02{
+  position: relative;
+
+  &:before,
+  &:after {
+    background: inherit;
+    content: '';
+    display: block;
+    height: 50%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    z-index: -1;
+    -webkit-backface-visibility: hidden; // for Chrome Windows
+  }
+
+  &:before {
+    top: 0;
+    transform: skewY(-3.9deg);
+    transform-origin: 25% 100%;
+  }
+
+  &:after {
+    bottom: 0;
+    transform: skewY(4deg);
+    transform-origin: 55%;
+  }
+}
 
 .main-logo{
   margin-top: 60px;

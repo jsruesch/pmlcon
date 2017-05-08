@@ -41,6 +41,9 @@
 .bg-white {
   background: #ffffff; }
 
+.bg-owhite {
+  background: rgba(255, 255, 255, 0.08); }
+
 .bg-dblue {
   background: #253D66; }
 
@@ -393,6 +396,9 @@ h1, h2, h3, h4, h5, p {
 
 .bg-white {
   background: #ffffff; }
+
+.bg-owhite {
+  background: rgba(255, 255, 255, 0.08); }
 
 .bg-dblue {
   background: #253D66; }
@@ -776,12 +782,22 @@ body {
   background: none !important;
   padding-bottom: 150px; }
 
+p a {
+  font-weight: 600; }
+
 p, li {
   font-family: "open-sans",sans-serif;
   font-size: 18px; }
 
 ul {
   list-style: none; }
+
+hr {
+  width: 100%;
+  float: left;
+  margin: 15px 0 !important;
+  border-top: 1px dotted rgba(35, 107, 143, 0.4) !important;
+  height: 0px !important; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
@@ -794,6 +810,9 @@ h1 {
 
 h2 {
   font-size: 40px !important; }
+
+h3 {
+  font-size: 30px !important; }
 
 /* END: Global Styles */
 /**
@@ -839,6 +858,9 @@ h2 {
   width: 20%;
   float: left; }
 
+.text-bold {
+  font-weight: 900; }
+
 .disc {
   list-style: disc;
   padding-left: 20px; }
@@ -855,6 +877,28 @@ h2 {
  * Elements
  * =========================================
  */
+.button {
+  width: 100%;
+  float: left;
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  padding: 20px;
+  font-size: 25px;
+  font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
+  text-transform: uppercase;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-align: center; }
+  .button:hover {
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    text-decoration: none;
+    opacity: .75; }
+
 .geopattern {
   position: absolute;
   z-index: 0;
