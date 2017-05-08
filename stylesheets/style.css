@@ -26,6 +26,9 @@
 .text-dblue {
   color: #253D66 !important; }
 
+.text-ddblue {
+  color: #000C30 !important; }
+
 .text-mblue {
   color: #236B8F !important; }
 
@@ -40,6 +43,9 @@
 
 .bg-dblue {
   background: #253D66; }
+
+.bg-ddblue {
+  background: #000C30; }
 
 .bg-mblue {
   background: #236B8F; }
@@ -373,6 +379,9 @@ h1, h2, h3, h4, h5, p {
 .text-dblue {
   color: #253D66 !important; }
 
+.text-ddblue {
+  color: #000C30 !important; }
+
 .text-mblue {
   color: #236B8F !important; }
 
@@ -387,6 +396,9 @@ h1, h2, h3, h4, h5, p {
 
 .bg-dblue {
   background: #253D66; }
+
+.bg-ddblue {
+  background: #000C30; }
 
 .bg-mblue {
   background: #236B8F; }
@@ -764,7 +776,7 @@ body {
   background: none !important;
   padding-bottom: 150px; }
 
-p {
+p, li {
   font-family: "open-sans",sans-serif;
   font-size: 18px; }
 
@@ -826,6 +838,10 @@ h2 {
 .col-5 {
   width: 20%;
   float: left; }
+
+.disc {
+  list-style: disc;
+  padding-left: 20px; }
 
 /* END: Utility Classes */
 /**
@@ -896,6 +912,10 @@ h2 {
 .main-logo {
   margin-top: 60px;
   margin-bottom: 30px; }
+
+.sponsors img {
+  width: 100%;
+  float: left; }
 
 /* END: Elements */
 /**

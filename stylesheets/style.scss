@@ -42,7 +42,7 @@
 
  a{  }
 
- p{ font-family: "open-sans",sans-serif; font-size: 18px; }
+ p, li{ font-family: "open-sans",sans-serif; font-size: 18px; }
 
  ul{ list-style:none; }
 
@@ -99,6 +99,8 @@
   width: 20%;
   float: left;
 }
+
+.disc{ list-style: disc; padding-left: 20px; }
  /* END: Utility Classes */
 
 
@@ -192,6 +194,13 @@
 .main-logo{
   margin-top: 60px;
   margin-bottom: 30px;
+}
+
+
+.sponsors{
+  img{
+    @include full;
+  }
 }
 
 /* END: Elements */

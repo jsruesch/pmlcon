@@ -90,6 +90,49 @@
           </div>
         </a>
       </div><!-- END: Portraits -->
+
+      <!-- Overview -->
+      <div class="row mar60-top">
+        <div class="col-sm-12 geocontainer bg-ddblue pad60">
+          <div class="row mar20-bot">
+            <h2 class="text-orange">Conference Agenda Overview</h2>
+          </div>
+          <div class="row mar20-bot">
+            <h3 class="text-white">Sunday, August 13 Evening event at Filament Games</h3>
+          </div>
+          <div class="row">
+            <h3 class="text-white mar10-bot">Monday, August 14 Conference at Union South</h3>
+            <ul class="disc text-lblue">
+              <li>Breakfast / Keynote / Poster Fair</li>
+              <li>Sessions / Makerspace / Game Jam</li>
+              <li>Lunch / Poster Fair</li>
+              <li>Sessions / Makerspace / Game Jam</li>
+              <li>Happy Hour</li>
+            </ul>
+          </div>
+        </div>
+      </div><!-- END: Overview -->
+
+      <!-- Sponsors -->
+      <div class="row mar60-top">
+        <div class="col-sm-12 geocontainer-02 bg-white pad60">
+          <div class="row mar20-bot">
+            <h2 class="text-orange">Sponsors</h2>
+            <p class="text-dblue">
+              Play Make Learn is proud of its many sponsors including the Wisconsin Department of Public Instruction, Education Outreach and Partnerships, The Network, School Of Education, and Wisconsin Center for Education Research.
+            </p>
+          </div>
+          <div class="row sponsors">
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-the-network.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-wcer.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-soe.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-eop.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-dpi.png" /></div>
+
+          </div>
+        </div>
+      </div><!-- END: Sponsors -->
+
     </div><!-- /.container -->
   </div><!-- /.container-fluid .main-content -->
 <!-- END: Main Content -->
