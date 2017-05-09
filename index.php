@@ -17,7 +17,7 @@
             <h3 class="text-dblue">Union South Madison, WI</h3>
           </div>
           <div class="row mar20-top mar20-bot">
-            <a href="" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
+            <a href="https://registration.eop.education.wisc.edu/index.aspx?id=43" target="_blank" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
           </div>
           <div class="row">
             <p class="text-dblue">
@@ -27,11 +27,77 @@
         </div>
       </div><!-- END: Header -->
     <!-- Call for Posters -->
-      <div class="row pad10">
-        <a href="" class="button bg-orange text-white">Call for Posters! Click here to submit yours!</a>
-      </div><!-- END: Call for Posters -->
-    <!-- Portraits -->
       <div class="row">
+        <div class="col-sm-6">
+          <div class="row">
+            <a href="https://docs.google.com/a/wisc.edu/forms/d/e/1FAIpQLSeGmTKvh6s3j01YPBsIQKOODO1iGcgtHodLFrfoNm2UWi7y4g/viewform?usp=sf_link" target="_blank" class="button bg-orange text-white">Call for Posters!</a>
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="row">
+            <a href="https://twitter.com/Play_Make_Learn" target="_blank" class="button bg-mblue text-white"><i class="fa fa-twitter" aria-hidden="true"></i> Follow us on Twitter</a>
+          </div>
+        </div>
+
+      </div><!-- END: Call for Posters -->
+    <!-- Overview -->
+    <div id="schedule"></div>
+      <div class="row mar30-top">
+        <div class="col-sm-12 bg-ddblue pad60">
+          <div class="row mar20-bot">
+            <h2 class="text-orange"><span class="text-white"><i class="fa fa-calendar" aria-hidden="true"></i></span> Conference Agenda Overview</h2>
+          </div>
+          <div class="row mar20-bot bg-owhite pad20">
+            <h3 class="text-white">Sunday, August 13 Evening event at <span class="text-orange">Filament Games</span></h3>
+          </div>
+          <div class="row bg-owhite pad20">
+            <h3 class="text-white mar10-bot">Monday, August 14 Conference at <span class="text-orange">Union South</span></h3>
+            <ul class="disc text-lblue">
+              <li>Breakfast / Keynote / Poster Fair</li>
+              <li>Sessions / Makerspace / Game Jam</li>
+              <li>Lunch / Poster Fair</li>
+              <li>Sessions / Makerspace / Game Jam</li>
+              <li>Happy Hour</li>
+            </ul>
+          </div>
+        </div>
+      </div><!-- END: Overview -->
+    <!-- Lodging -->
+      <div id="lodging" class="row bg-orange pad60">
+        <div class="row pad10-left">
+          <h2 class="text-white"><i class="fa fa-bed" aria-hidden="true"></i> Lodging</h2>
+          <p class="text-white">
+            Lodging is available through a group rate at the
+            <a href="http://bit.ly/play13aug" target="_blank" class="text-white">Lowell Center</a> or
+            <a href="http://hamptoninn.hilton.com/en/hp/groups/personalized/M/MSNBJHX-PML-20170813/index.jhtml?WT.mc_id=POG" target="_blank" class="text-white">Hampton Inn</a>.
+          </p>
+        </div>
+      </div><!-- END: lodging -->
+    <!-- Keynote -->
+    <div id="keynote"></div>
+      <div class="row bg-white pad60">
+        <div class="row pad10-left">
+          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speaker</h2>
+        </div>
+        <div class="col-sm-6">
+          <div class="row pad10">
+            <img class="full" src="img/portraits/portrait-nichole-pinnkard.png" />
+          </div>
+        </div>
+        <div class="col-sm-6">
+          <div class="row pad10">
+            <h3 class="text-mblue">Nichole Pinkard</h3>
+            <hr />
+            <p class="text-dblue">
+              <a class="text-orange" href="http://digitalyouthnetwork.org/staff/nichole-pinkard/" target="_blank">Nichole Pinkard</a> is an Associate Professor in the College of Computing and Digital Media at DePaul University in Chicago. She is the founder of <a class="text-orange" href="http://www.digitalyouthnetwork.org/" target="_blank">Digital Youth Network</a>, co-founder of Inquirium LLC and Remix Learning, home of iRemix, a social learning platform that connects youth's learning opportunities in school, home, and beyond.
+            </p>
+          </div>
+        </div>
+      </div><!-- END: Keynote -->
+    <!-- Story -->
+    <div id="story"></div>
+    <!-- Portraits -->
+      <div class="row pad60-top pad60-bot">
         <!-- David Gagnon -->
         <a href="https://www.fielddaylab.org/" target="_blank">
           <div class="col-5 pad10">
@@ -103,48 +169,6 @@
           </div>
         </a>
       </div><!-- END: Portraits -->
-    <!-- Overview -->
-      <div class="row mar60-top">
-        <div class="col-sm-12 bg-ddblue pad60">
-          <div class="row mar20-bot">
-            <h2 class="text-orange"><span class="text-white"><i class="fa fa-calendar" aria-hidden="true"></i></span> Conference Agenda Overview</h2>
-          </div>
-          <div class="row mar20-bot bg-owhite pad20">
-            <h3 class="text-white">Sunday, August 13 Evening event at <span class="text-orange">Filament Games</span></h3>
-          </div>
-          <div class="row bg-owhite pad20">
-            <h3 class="text-white mar10-bot">Monday, August 14 Conference at <span class="text-orange">Union South</span></h3>
-            <ul class="disc text-lblue">
-              <li>Breakfast / Keynote / Poster Fair</li>
-              <li>Sessions / Makerspace / Game Jam</li>
-              <li>Lunch / Poster Fair</li>
-              <li>Sessions / Makerspace / Game Jam</li>
-              <li>Happy Hour</li>
-            </ul>
-          </div>
-        </div>
-      </div><!-- END: Overview -->
-    <!-- Keynote -->
-      <div class="row bg-white pad60">
-        <div class="row pad10-left">
-          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speaker</h2>
-        </div>
-        <div class="col-sm-6">
-          <div class="row pad10">
-            <img class="full" src="img/portraits/portrait-nichole-pinnkard.png" />
-          </div>
-        </div>
-        <div class="col-sm-6">
-          <div class="row pad10">
-            <h3 class="text-mblue">Nichole Pinkard</h3>
-            <hr />
-            <p class="text-dblue">
-              <a class="text-orange" href="http://digitalyouthnetwork.org/staff/nichole-pinkard/" target="_blank">Nichole Pinkard</a> is an Associate Professor in the College of Computing and Digital Media at DePaul University in Chicago. She is the founder of <a class="text-orange" href="http://www.digitalyouthnetwork.org/" target="_blank">Digital Youth Network</a>, co-founder of Inquirium LLC and Remix Learning, home of iRemix, a social learning platform that connects youth's learning opportunities in school, home, and beyond.
-            </p>
-          </div>
-        </div>
-      </div><!-- END: Keynote -->
-    <!-- Story -->
       <div class="row">
         <div class="col-sm-12 bg-ddblue pad60">
           <div class="row pad10">

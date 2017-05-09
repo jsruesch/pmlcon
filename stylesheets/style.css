@@ -902,7 +902,7 @@ h3 {
     font-weight: 800;
     letter-spacing: 1px;
     text-align: center; }
-    .nav a:hover {
+    .nav a:hover, .nav a:focus, .nav a:visited {
       -webkit-transition: all 0.2s ease;
       -moz-transition: all 0.2s ease;
       -ms-transition: all 0.2s ease;
@@ -910,7 +910,7 @@ h3 {
       text-decoration: none;
       background: #236B8F;
       color: #ffffff; }
-      .nav a:hover i {
+      .nav a:hover i, .nav a:focus i, .nav a:visited i {
         -webkit-transition: all 0.2s ease;
         -moz-transition: all 0.2s ease;
         -ms-transition: all 0.2s ease;

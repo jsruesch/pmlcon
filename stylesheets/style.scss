@@ -146,7 +146,7 @@
     letter-spacing: 1px;
     text-align: center;
 
-    &:hover{
+    &:hover, &:focus, &:visited{
       @include transition;
       text-decoration: none;
       background: $mblue;

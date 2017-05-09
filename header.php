@@ -32,10 +32,8 @@
     <!-- Scroll to Top -->
     <script>
       $(document).ready(function(){
-
       	// hide #back-top first
       	$("#back-top").hide();
-
       	// fade in #back-top
       	$(function () {
       		$(window).scroll(function () {
@@ -45,7 +43,6 @@
       				$('#back-top').fadeOut();
       			}
       		});
-
       		// scroll body to 0px on click
       		$('#back-top a').click(function () {
       			$('body,html').animate({
@@ -54,9 +51,21 @@
       			return false;
       		});
       	});
-
+      });
+    </script>
+    <!-- Scroll to section -->
+    <script>
+        $(function() {
+          $('.nav a').bind('click',function(event){
+              var $anchor = $(this);
+              $('html, body').stop().animate({
+                  scrollTop: $($anchor.attr('href')).offset().top
+              }, 600);
+              event.preventDefault();
+          });
       });
     </script>
 </head>
 
 <body id="top">
+<div class="geopattern"></div>
