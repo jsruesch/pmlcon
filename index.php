@@ -86,7 +86,7 @@
         </div>
         <div class="col-sm-6">
           <div class="row pad10">
-            <h3 class="text-mblue">Nichole Pinkard</h3>
+            <h3 class="text-dblue">Nichole Pinkard</h3>
             <hr />
             <p class="text-dblue">
               <a class="text-orange" href="http://digitalyouthnetwork.org/staff/nichole-pinkard/" target="_blank">Nichole Pinkard</a> is an Associate Professor in the College of Computing and Digital Media at DePaul University in Chicago. She is the founder of <a class="text-orange" href="http://www.digitalyouthnetwork.org/" target="_blank">Digital Youth Network</a>, co-founder of Inquirium LLC and Remix Learning, home of iRemix, a social learning platform that connects youth's learning opportunities in school, home, and beyond.
@@ -96,79 +96,6 @@
       </div><!-- END: Keynote -->
     <!-- Story -->
     <div id="story"></div>
-    <!-- Portraits -->
-      <div class="row pad60-top pad60-bot">
-        <!-- David Gagnon -->
-        <a href="https://www.fielddaylab.org/" target="_blank">
-          <div class="col-5 pad10">
-            <div class="row">
-              <img class="full" src="img/portraits/portrait-david.png" />
-            </div>
-            <div class="full pad10 bg-white geocontainer">
-              <h3 class="text-center text-dblue">David<br />Gagnon</h3>
-              <h5 class="text-mblue text-center bold">
-                Field Day
-              </h5>
-            </div>
-          </div>
-        </a>
-        <!-- Rich Halverson -->
-        <a href="http://personalizationinpractice.org/" target="_blank">
-          <div class="col-5 pad10">
-            <div class="row">
-              <img class="full" src="img/portraits/portrait-rich.png" />
-            </div>
-            <div class="full pad10 bg-white geocontainer-02">
-              <h3 class="text-center text-dblue">Rich<br />Halverson</h3>
-              <h5 class="text-mblue text-center bold">
-                Personalization & Practice
-              </h5>
-            </div>
-          </div>
-        </a>
-        <!-- Erica Halverson -->
-        <a href="https://ci.education.wisc.edu/ci/people/faculty/erica-halverson" target="_blank">
-          <div class="col-5 pad10">
-            <div class="row">
-              <img class="full" src="img/portraits/portrait-erica.png" />
-            </div>
-            <div class="full pad10 bg-white geocontainer">
-              <h3 class="text-center text-dblue">Erica<br />Halverson</h3>
-              <h5 class="text-mblue text-center bold">
-                Learning in the Making
-              </h5>
-            </div>
-          </div>
-        </a>
-        <!-- Dan Norton -->
-        <a href="https://www.filamentlearning.com" target="_blank">
-          <div class="col-5 pad10">
-            <div class="row">
-              <img class="full" src="img/portraits/portrait-dan.png" />
-            </div>
-            <div class="full pad10 bg-white geocontainer-02">
-              <h3 class="text-center text-dblue">Dan<br />Norton</h3>
-              <h5 class="text-mblue text-center bold">
-                Filament Games
-              </h5>
-            </div>
-        </div>
-        </a>
-        <!-- Mike Beall -->
-        <a href="http://gearlearning.org/" target="_blank">
-          <div class="col-5 pad10">
-            <div class="row">
-              <img class="full" src="img/portraits/portrait-mike.png" />
-            </div>
-            <div class="full pad10 bg-white geocontainer">
-              <h3 class="text-center text-dblue">Mike<br />Beall</h3>
-              <h5 class="text-mblue text-center bold">
-                Gear Learning
-              </h5>
-            </div>
-          </div>
-        </a>
-      </div><!-- END: Portraits -->
       <div class="row">
         <div class="col-sm-12 bg-ddblue pad60">
           <div class="row pad10">
@@ -251,6 +178,20 @@
               </div><!-- END: Personalized Learning -->
             </div><!-- /.row -->
           </div><!-- END: Focus -->
+          <hr />
+          <div class="row">
+            <h2 class="text-orange mar10-bot">How Play Make Learn came to be</h2>
+            <p class="text-large text-lblue">
+              This conference grew out of partnerships among <strong class="text-white">Games + Learning + Society</strong>, <strong class="text-white">Filament Games</strong>, the <strong class="text-white">Learning Games Network</strong>, the <strong class="text-white">Playful Learning Conference</strong>, the <strong class="text-white">Wisconsin Collaborative Education Research Network</strong> and others who see a need to collaborate around making, playing, and learning in research, industry, and practice.
+            </p>
+            <ul class="disc text-lblue mar10-top">
+              <li>Filament Games</li>
+              <li>Field Day</li>
+              <li>Gear Learning</li>
+              <li>Leearning in the Making</li>
+              <li>Peronalization in Practice</li>
+            </ul>
+          </div>
         </div><!-- /.col-sm-12 -->
       </div><!-- END: Story -->
     <!-- Sponsors -->
@@ -269,26 +210,73 @@
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-eop.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-dpi.png" /></div>
           </div>
+          <hr />
+          <div class="row">
+            <h2 class="text-orange mar10-bot"><span class="text-dblue"><i class="fa fa-users" aria-hidden="true"></i></span> Conference Organizers</h2>
+          </div>
+        <!-- Rich -->
+          <div class="row">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-rich.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Rich Halverson</h3>
+              <p class="text-ddblue">
+                Rich Halverson is a Professor in Educational Leadership and Policy Analysis at UW Madison. He is a former high school teacher and administrator, and earned an MA in Philosophy and a PhD in the Learning Sciences from Northwestern University. He holds affiliate appointments in Educational Psychology and Curriculum and Instruction Departments, and is a Fellow at the Wisconsin Institutes for Discovery. Halverson leads <a href="http://personalizationinpractice.org/#intro" target="_blank">Personalization in Practice</a>, a study documenting how teachers, leaders, and students experience personalized learning in Wisconsin.
+              </p>
+            </div>
+          </div><!-- END: Rich -->
+        <!-- Rich -->
+          <div class="row mar10-top mar10-bot">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-erica.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Erica Halverson</h3>
+              <p class="text-ddblue">
+                Erica Halverson is an associate professor of digital media and literacy in the Department of Curriculum and Instruction at the University of Wisconsin–Madison. Her work focuses on what it means to learn in and through the arts across a range of contexts, including out-of-school arts organizations, museums, libraries, and arts-based classrooms. In 2010 she received the Jan Hawkins Award for Early Career Contributions to Humanistic Research and Scholarship in Learning Technologies for her research on how filmmaking serves as a vehicle for positive identity development and sophisticated literacy learning for young people who are disaffiliated from school. Halverson co-directs with Kimberly Sheridan the Learning in the Making research lab, where they are currently focused on what and how young people learn through making and how new technologies can be leveraged for more inspired and engaged making processes.
+              </p>
+            </div>
+          </div><!-- END: Rich -->
+        <!-- Rich -->
+          <div class="row mar10-top mar10-bot">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-david.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">David Gagnon</h3>
+              <p class="text-ddblue">
+                David Gagnon is the program director of the <a href="https://fielddaylab.wisc.edu/" target="_blank">Field Day Lab</a> in the Wisconsin Center for Educational Research at University of Wisconsin, Madison. He directs a team of educational researchers, software engineers, artists and storytellers that explore the intersections of learning science and media design, specializing in mobile media, video games and simulation. David is also the Director of the <a href="http://arisgames.org/" target="_blank">ARIS project</a>, a free and open tool that allows anyone to produce mobile games, stories and tours.
+              </p>
+            </div>
+          </div><!-- END: Rich -->
+        <!-- Rich -->
+          <div class="row mar10-top mar10-bot">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-mike.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Mike Beall</h3>
+              <p class="text-ddblue">
+                Mike Beall is the director of Games Education and Research (Gear) at UW Madison, part of the Wisconsin Center for Educational Research. Gear Learning aims to bring learning to digital life by working with researchers across the UW–Madison campus, as well as with external educational partners. Gear officially became part of WCER at the beginning of 2017 and already has attracted interest from several collaborative partners outside the university. Currently, the team is working with DeVry Medical International's Institute for Research and Clinical Strategy to design and develop games and simulations that support and enhance curriculum for medical and veterinary students.
+                Gear also is collaborating with publisher W.W. Norton & Company, Inc. on a much-anticipated new game two years in the making, "At Play in the Cosmos," a first-of-its-kind resource in astronomy education.
+              </p>
+            </div>
+          </div><!-- END: Rich -->
+        <!-- Rich -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-dan.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Dan Norton</h3>
+              <p class="text-ddblue">
+                Dan Norton is a founding partner and CCO at Filament Games. He specializes in crafting educational game design documents and storyboards that originate from learning objectives. Dan sees Filament as an opportunity to merge his life long love of games with his incessant quest to learn about new and interesting things. Filament games creates educational games meant to engage, inspire, and motivate. They have created over 100 digital learning games in the past 10 years.
+              </p>
+            </div>
+          </div><!-- END: Rich -->
         </div>
       </div><!-- END: Sponsors -->
-    <!-- Came to Be -->
-      <div class="row">
-        <div class="col-sm-12 bg-ddblue pad60">
-          <div class="row pad10">
-            <h2 class="text-orange mar10-bot">How Play Make Learn came to be</h2>
-            <p class="text-large text-lblue">
-              This conference grew out of partnerships among <strong class="text-white">Games + Learning + Society</strong>, <strong class="text-white">Filament Games</strong>, the <strong class="text-white">Learning Games Network</strong>, the <strong class="text-white">Playful Learning Conference</strong>, the <strong class="text-white">Wisconsin Collaborative Education Research Network</strong> and others who see a need to collaborate around making, playing, and learning in research, industry, and practice.
-            </p>
-            <ul class="disc text-lblue mar10-top">
-              <li>Filament Games</li>
-              <li>Field Day</li>
-              <li>Gear Learning</li>
-              <li>Leearning in the Making</li>
-              <li>Peronalization in Practice</li>
-            </ul>
-          </div>
-        </div>
-      </div><!-- END: Came to Be -->
     </div><!-- /.container -->
   </div><!-- /.container-fluid .main-content -->
 <!-- END: Main Content -->

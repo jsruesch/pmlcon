@@ -3,6 +3,14 @@
     <!-- Nav Buttons -->
       <div class="row">
         <div class="col-xs-15">
+          <div class="row">
+            <a href="index.php" class="text-white">
+              <span class="text-orange"><i class="fa fa-home" aria-hidden="true"></i></span>
+              <span class="nav-button-text">Home</span>
+            </a>
+          </div>
+        </div>
+        <div class="col-xs-15">
           <div class="row bg-orange">
             <a href="https://registration.eop.education.wisc.edu/index.aspx?id=43" target="_blank" class="text-white">
               <span class="text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span>
@@ -12,7 +20,7 @@
         </div>
         <div class="col-xs-15">
           <div class="row">
-            <a href="#schedule" class="text-white">
+            <a href="schedule.php" class="text-white">
               <span class="text-orange"><i class="fa fa-calendar" aria-hidden="true"></i></span>
               <span class="nav-button-text">Schedule</span>
             </a>
@@ -31,14 +39,6 @@
             <a href="#keynote" class="text-white">
               <span class="text-orange"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span>
               <span class="nav-button-text">Keynote</span>
-            </a>
-          </div>
-        </div>
-        <div class="col-xs-15">
-          <div class="row">
-            <a href="#story" class="text-white">
-              <span class="text-orange"><i class="fa fa-book" aria-hidden="true"></i></span>
-              <span class="nav-button-text">Our Story</span>
             </a>
           </div>
         </div>
