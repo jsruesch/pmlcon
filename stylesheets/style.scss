@@ -272,6 +272,38 @@
   }
 }
 
+
+#back-top {
+    @include transition;
+    position: fixed;
+    z-index: 999;
+    bottom: 15px;
+    right:15px;
+    background: #000412;
+
+    &:hover{
+      @include transition;
+      background: $mblue;
+    }
+
+    a{
+      @include transition;
+      display: block;
+      padding: 20px;
+      font-size: 25px;
+      font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
+      text-transform: uppercase;
+      font-weight: 800;
+      letter-spacing: 1px;
+      text-align: center;
+
+      &:hover, &:focus, &:visited {
+          color: white;
+          text-decoration: none;
+      }
+    }
+}
+
 /* END: Elements */
 
 

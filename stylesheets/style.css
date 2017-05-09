@@ -1009,6 +1009,39 @@ h3 {
   width: 100%;
   float: left; }
 
+#back-top {
+  -webkit-transition: all 0.2s ease;
+  -moz-transition: all 0.2s ease;
+  -ms-transition: all 0.2s ease;
+  -o-transition: all 0.2s ease;
+  position: fixed;
+  z-index: 999;
+  bottom: 15px;
+  right: 15px;
+  background: #000412; }
+  #back-top:hover {
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    background: #236B8F; }
+  #back-top a {
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    display: block;
+    padding: 20px;
+    font-size: 25px;
+    font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-align: center; }
+    #back-top a:hover, #back-top a:focus, #back-top a:visited {
+      color: white;
+      text-decoration: none; }
+
 /* END: Elements */
 /**
  * =========================================
