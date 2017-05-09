@@ -712,6 +712,9 @@ h1, h2, h3, h4, h5, p {
     padding: 35px !important; } }
 /*-----------------  Desktops  -----------------*/
 @media screen and (max-width: 635px) {
+  .nav-button-text {
+    display: none; }
+
   .col-5 {
     width: 50% !important; }
 
@@ -822,7 +825,8 @@ h3 {
  */
 .main-content {
   position: relative;
-  z-index: 99; }
+  z-index: 99;
+  margin-top: 60px; }
 
 .full {
   width: 100%;
@@ -871,6 +875,50 @@ h3 {
  * Navigation
  * =========================================
  */
+.nav {
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  z-index: 999;
+  background: #000412; }
+  .nav i {
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease; }
+  .nav a {
+    width: 100%;
+    float: left;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    padding: 20px;
+    font-size: 25px;
+    font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-align: center; }
+    .nav a:hover {
+      -webkit-transition: all 0.2s ease;
+      -moz-transition: all 0.2s ease;
+      -ms-transition: all 0.2s ease;
+      -o-transition: all 0.2s ease;
+      text-decoration: none;
+      background: #236B8F;
+      color: #ffffff; }
+      .nav a:hover i {
+        -webkit-transition: all 0.2s ease;
+        -moz-transition: all 0.2s ease;
+        -ms-transition: all 0.2s ease;
+        -o-transition: all 0.2s ease;
+        color: #ffffff; }
+  .nav .col-xs-15 {
+    padding: 0 0 0 0; }
+
 /* END: Navigation */
 /**
  * =========================================

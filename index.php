@@ -1,4 +1,5 @@
 <?php include('header.php') ?>
+<?php include('navigation.php') ?>
 
 <!--
   BEGIN: Main Content
@@ -16,7 +17,7 @@
             <h3 class="text-dblue">Union South Madison, WI</h3>
           </div>
           <div class="row mar20-top mar20-bot">
-            <a href="" class="button bg-orange text-white">Register Here</a>
+            <a href="" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
           </div>
           <div class="row">
             <p class="text-dblue">
@@ -25,32 +26,10 @@
           </div>
         </div>
       </div><!-- END: Header -->
-    <!-- Nav Buttons -->
-      <div class="row">
-        <div class="col-sm-3 pad10">
-          <div class="row">
-            <a href="" class="button bg-ddblue text-white"><span class="text-orange"><i class="fa fa-calendar" aria-hidden="true"></i></span> Schedule</a>
-          </div>
-        </div>
-        <div class="col-sm-3 pad10">
-          <div class="row">
-            <a href="" class="button bg-ddblue text-white"><span class="text-orange"><i class="fa fa-bed" aria-hidden="true"></i></span> Lodging</a>
-          </div>
-        </div>
-        <div class="col-sm-3 pad10">
-          <div class="row">
-            <a href="" class="button bg-ddblue text-white"><span class="text-orange"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote</a>
-          </div>
-        </div>
-        <div class="col-sm-3 pad10">
-          <div class="row">
-            <a href="" class="button bg-ddblue text-white"><span class="text-orange"><i class="fa fa-book" aria-hidden="true"></i></span> Our Story</a>
-          </div>
-        </div>
-      </div>
+    <!-- Call for Posters -->
       <div class="row pad10">
         <a href="" class="button bg-orange text-white">Call for Posters! Click here to submit yours!</a>
-      </div><!-- END: Nav Buttons -->
+      </div><!-- END: Call for Posters -->
     <!-- Portraits -->
       <div class="row">
         <!-- David Gagnon -->

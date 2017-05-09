@@ -83,7 +83,7 @@
   * =========================================
   */
 
-.main-content{ position: relative; z-index: 99;}
+.main-content{ position: relative; z-index: 99; margin-top: 60px; }
 .full{ @include full; }
 
  .clear{ clear: both; }
@@ -123,6 +123,44 @@
   * =========================================
   */
 
+.nav{
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  z-index: 999;
+
+  background: #000412;
+
+  i{ @include transition; }
+
+  a{
+    @include full;
+    @include transition;
+    padding: 20px;
+    font-size: 25px;
+    font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-align: center;
+
+    &:hover{
+      @include transition;
+      text-decoration: none;
+      background: $mblue;
+      color: $white;
+
+      i{
+        @include transition;
+        color: $white;
+      }
+    }
+  }
+
+  .col-xs-15{ padding: 0 0 0 0;}
+}
 
 /* END: Navigation */
 
