@@ -20,7 +20,7 @@
         </div>
         <div class="col-xs-15">
           <div class="row">
-            <a href="schedule.php" class="text-white">
+            <a href="#schedule" class="text-white">
               <span class="text-orange"><i class="fa fa-calendar" aria-hidden="true"></i></span>
               <span class="nav-button-text">Schedule</span>
             </a>
