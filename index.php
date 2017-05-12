@@ -73,26 +73,47 @@
           </p>
         </div>
       </div><!-- END: lodging -->
-    <!-- Keynote -->
+    <!-- Keynotes -->
     <div id="keynote"></div>
       <div class="row bg-white pad60">
         <div class="row pad10-left">
-          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speaker</h2>
+          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speakers</h2>
         </div>
-        <div class="col-sm-6">
-          <div class="row pad10">
-            <img class="full" src="img/portraits/portrait-nichole-pinnkard.png" />
+      <!-- Nichole Pinkard -->
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="row pad10">
+              <img class="full" src="img/portraits/portrait-nichole-pinnkard.png" />
+            </div>
           </div>
-        </div>
-        <div class="col-sm-6">
-          <div class="row pad10">
-            <h3 class="text-dblue">Nichole Pinkard</h3>
-            <hr />
-            <p class="text-dblue">
-              <a class="text-orange" href="http://digitalyouthnetwork.org/staff/nichole-pinkard/" target="_blank">Nichole Pinkard</a> is an Associate Professor in the College of Computing and Digital Media at DePaul University in Chicago. She is the founder of <a class="text-orange" href="http://www.digitalyouthnetwork.org/" target="_blank">Digital Youth Network</a>, co-founder of Inquirium LLC and Remix Learning, home of iRemix, a social learning platform that connects youth's learning opportunities in school, home, and beyond.
-            </p>
+          <div class="col-sm-8">
+            <div class="row pad10">
+              <h3 class="text-dblue">Nichole Pinkard</h3>
+              <hr />
+              <p class="text-dblue">
+                <a class="text-orange" href="http://digitalyouthnetwork.org/staff/nichole-pinkard/" target="_blank">Nichole Pinkard</a> is an Associate Professor in the College of Computing and Digital Media at DePaul University in Chicago. She is the founder of <a class="text-orange" href="http://www.digitalyouthnetwork.org/" target="_blank">Digital Youth Network</a>, co-founder of Inquirium LLC and Remix Learning, home of iRemix, a social learning platform that connects youth's learning opportunities in school, home, and beyond.
+              </p>
+            </div>
           </div>
-        </div>
+        </div><!-- END: Nichole Pinkard -->
+      <!-- Dan White -->
+        <div class="row mar30-top">
+          <div class="col-sm-4">
+            <div class="row pad10">
+              <img class="full" src="img/portraits/portrait-dan-white.jpg" />
+            </div>
+          </div>
+          <div class="col-sm-8">
+            <div class="row pad10">
+              <h3 class="text-dblue">Dan White</h3>
+              <h4 class="text-mblue">Chief Product Officer at Filament Games</h4>
+              <hr />
+              <p class="text-dblue">
+                Dan White is a founding partner and Chief Product Officer at Filament Games, an educational game design and development studio in Madison, WI. Founded in 2005, Filament's 20 title portfolio includes a diversity of STEM, literacy, and civics education games developed for clients such as National Geographic's JASON Science and Sandra Day O'Connor's iCivics. Dan’s principal responsibilities include: process management, business development, strategic and financial planning, outreach, and client relations. Dan holds a BS in communication technologies from Cornell University and an MS in educational communications and technology from the University of Wisconsin-Madison. Prior to founding Filament, Dan designed instructional technologies at the UW Division of Information Technology and the Academic ADL Co-Lab. Prior to that he served as production/art lead on the Cornell Theory Center’s NSF-funded SciCentr project, a series of online virtual worlds created for informal science and technology outreach.
+              </p>
+            </div>
+          </div>
+        </div><!-- END: Dan White -->
       </div><!-- END: Keynote -->
     <!-- Story -->
     <div id="story"></div>
