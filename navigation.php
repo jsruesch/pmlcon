@@ -38,7 +38,7 @@
           <div class="row">
             <a href="#keynote" class="text-white">
               <span class="text-orange"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span>
-              <span class="nav-button-text">Keynote</span>
+              <span class="nav-button-text">Keynotes</span>
             </a>
           </div>
         </div>
