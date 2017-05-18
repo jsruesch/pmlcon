@@ -189,7 +189,7 @@
               <!-- Personalized Learning -->
               <div class="col-sm-4 pad10">
                 <div class="row bg-owhite pad20">
-                  <h2 class="text-white text-center">Personilized Learning</h2>
+                  <h2 class="text-white text-center">Personalized Learning</h2>
                   <ul class="disc text-lblue">
                     <li>Conferring in personalized learning settings</li>
                     <li>Current research on personalized learning practices</li>
