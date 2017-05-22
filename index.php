@@ -209,8 +209,8 @@
               <li>Filament Games</li>
               <li>Field Day</li>
               <li>Gear Learning</li>
-              <li>Leearning in the Making</li>
-              <li>Peronalization in Practice</li>
+              <li>Learning in the Making</li>
+              <li>Personalization in Practice</li>
             </ul>
           </div>
         </div><!-- /.col-sm-12 -->
