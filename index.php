@@ -230,6 +230,9 @@
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-soe.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-eop.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-dpi.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-field-day.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-filament.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-gear-learning.png" /></div>
           </div>
           <hr />
           <div class="row">
