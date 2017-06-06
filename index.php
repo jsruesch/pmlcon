@@ -109,7 +109,7 @@
               <h4 class="text-mblue">Chief Product Officer at Filament Games</h4>
               <hr />
               <p class="text-dblue">
-                Dan White is a founding partner and Chief Product Officer at Filament Games, an educational game design and development studio in Madison, WI. Founded in 2005, Filament's 20 title portfolio includes a diversity of STEM, literacy, and civics education games developed for clients such as National Geographic's JASON Science and Sandra Day O'Connor's iCivics. Dan’s principal responsibilities include: process management, business development, strategic and financial planning, outreach, and client relations. Dan holds a BS in communication technologies from Cornell University and an MS in educational communications and technology from the University of Wisconsin-Madison. Prior to founding Filament, Dan designed instructional technologies at the UW Division of Information Technology and the Academic ADL Co-Lab. Prior to that he served as production/art lead on the Cornell Theory Center’s NSF-funded SciCentr project, a series of online virtual worlds created for informal science and technology outreach.
+                Dan White wants learning to be associated with meaning and inspiration rather than accountability and drudgery. Accordingly, he believes that learning should be highly interactive, and that game-based learning, like project- and inquiry-based learning, is a "best practice" in the field of education. An alumnus of Cornell University and the University of Wisconsin-Madison, Dan has two primary passions: making outstanding learning games and building sustainable businesses. 
               </p>
             </div>
           </div>
