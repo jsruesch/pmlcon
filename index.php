@@ -28,14 +28,19 @@
       </div><!-- END: Header -->
     <!-- Call for Posters -->
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-4">
           <div class="row">
             <a href="https://docs.google.com/a/wisc.edu/forms/d/e/1FAIpQLSeGmTKvh6s3j01YPBsIQKOODO1iGcgtHodLFrfoNm2UWi7y4g/viewform?usp=sf_link" target="_blank" class="button bg-orange text-white">Call for Posters!</a>
           </div>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-4">
           <div class="row">
-            <a href="https://twitter.com/Play_Make_Learn" target="_blank" class="button bg-mblue text-white"><i class="fa fa-twitter" aria-hidden="true"></i> Follow us on Twitter</a>
+            <a href="https://twitter.com/Play_Make_Learn" target="_blank" class="button bg-mblue text-white"><i class="fa fa-twitter" aria-hidden="true"></i> Follow us</a>
+          </div>
+        </div>
+        <div class="col-sm-4">
+          <div class="row">
+            <a href="https://playmakelearnconference2017.sched.com/" target="_blank" class="button bg-dblue text-white"><i class="fa fa-calendar" aria-hidden="true"></i> Full Schedule </a>
           </div>
         </div>
 
@@ -109,7 +114,7 @@
               <h4 class="text-mblue">Chief Product Officer at Filament Games</h4>
               <hr />
               <p class="text-dblue">
-                Dan White wants learning to be associated with meaning and inspiration rather than accountability and drudgery. Accordingly, he believes that learning should be highly interactive, and that game-based learning, like project- and inquiry-based learning, is a "best practice" in the field of education. An alumnus of Cornell University and the University of Wisconsin-Madison, Dan has two primary passions: making outstanding learning games and building sustainable businesses. 
+                Dan White wants learning to be associated with meaning and inspiration rather than accountability and drudgery. Accordingly, he believes that learning should be highly interactive, and that game-based learning, like project- and inquiry-based learning, is a "best practice" in the field of education. An alumnus of Cornell University and the University of Wisconsin-Madison, Dan has two primary passions: making outstanding learning games and building sustainable businesses.
               </p>
             </div>
           </div>
