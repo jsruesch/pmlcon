@@ -45,6 +45,17 @@
         </div>
 
       </div><!-- END: Call for Posters -->
+
+    <!-- Kick Off Part -->
+    <div class="row mar30-top pad20 bg-white">
+      <div class="row mar10-bot">
+        <h3 class="text-mblue text-center">Digital Media and Learning Kick Meetup: <br />Kick Off to Play Make Learn</h3>
+      </div>
+      <div class="row">
+        <p class="text-dblue text-center"><span class="text-bold">Sunday, August 13</span> |  <span class="text-bold">4-6pm</span>  |  <span class="text-bold">Filament Games</span> |  <a href="https://www.eventbrite.com/e/digital-media-and-learning-grand-challenges-meet-up-and-kickoff-to-play-make-learn-registration-36485289483" class="text-orange text-bold" target="_blank">Register Here</a></p>
+      </div>
+    </div>
+    <!-- END: Kick Off Party -->
     <!-- Overview -->
     <div id="schedule"></div>
       <div class="row mar30-top">
