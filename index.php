@@ -13,15 +13,15 @@
         </div>
         <div class="col-sm-6 pad60 mar50-top bg-white">
           <div class="row text-center">
-            <h2 class="text-mblue">August 14, 2017</h2>
-            <h3 class="text-dblue">Union South Madison, WI</h3>
+            <h2 class="text-mblue">Save the Date!</h2>
+            <h3 class="text-dblue">August 13-14, 2018</h3>
           </div>
-          <div class="row mar20-top mar20-bot">
+          <!-- <div class="row mar20-top mar20-bot">
             <a href="https://registration.eop.education.wisc.edu/index.aspx?id=43" target="_blank" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
-          </div>
-          <div class="row">
-            <p class="text-dblue">
-              Registration for this one day event is <span class="text-orange text-bold">$50</span> and covers all costs associated with the conference.
+          </div> -->
+          <div class="row mar20-top">
+            <p class="text-dblue text-center">
+              Questions? <a href="mailto:playmakelearninfo@gmail.com" target="_blank">Send us an email!</a> <br />We'd be happy to answer them for you!
             </p>
           </div>
         </div>
@@ -89,48 +89,7 @@
           </p>
         </div>
       </div><!-- END: lodging -->
-    <!-- Keynotes -->
-    <div id="keynote"></div>
-      <div class="row bg-white pad60">
-        <div class="row pad10-left">
-          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speakers</h2>
-        </div>
-      <!-- Nichole Pinkard -->
-        <div class="row">
-          <div class="col-sm-4">
-            <div class="row pad10">
-              <img class="full" src="img/portraits/portrait-nichole-pinnkard.png" />
-            </div>
-          </div>
-          <div class="col-sm-8">
-            <div class="row pad10">
-              <h3 class="text-dblue">Nichole Pinkard</h3>
-              <hr />
-              <p class="text-dblue">
-                <a class="text-orange" href="http://digitalyouthnetwork.org/staff/nichole-pinkard/" target="_blank">Nichole Pinkard</a> is an Associate Professor in the College of Computing and Digital Media at DePaul University in Chicago. She is the founder of <a class="text-orange" href="http://www.digitalyouthnetwork.org/" target="_blank">Digital Youth Network</a>, co-founder of Inquirium LLC and Remix Learning, home of iRemix, a social learning platform that connects youth's learning opportunities in school, home, and beyond.
-              </p>
-            </div>
-          </div>
-        </div><!-- END: Nichole Pinkard -->
-      <!-- Dan White -->
-        <div class="row mar30-top">
-          <div class="col-sm-4">
-            <div class="row pad10">
-              <img class="full" src="img/portraits/portrait-dan-white.jpg" />
-            </div>
-          </div>
-          <div class="col-sm-8">
-            <div class="row pad10">
-              <h3 class="text-dblue">Dan White</h3>
-              <h4 class="text-mblue">Chief Product Officer at Filament Games</h4>
-              <hr />
-              <p class="text-dblue">
-                Dan White wants learning to be associated with meaning and inspiration rather than accountability and drudgery. Accordingly, he believes that learning should be highly interactive, and that game-based learning, like project- and inquiry-based learning, is a "best practice" in the field of education. An alumnus of Cornell University and the University of Wisconsin-Madison, Dan has two primary passions: making outstanding learning games and building sustainable businesses.
-              </p>
-            </div>
-          </div>
-        </div><!-- END: Dan White -->
-      </div><!-- END: Keynote -->
+    <!-- Keynotes here -->
     <!-- Story -->
     <div id="story"></div>
       <div class="row">
