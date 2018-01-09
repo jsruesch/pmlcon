@@ -45,17 +45,6 @@
         </div>
 
       </div><!-- END: Call for Posters -->
-
-    <!-- Kick Off Part -->
-    <div class="row mar30-top pad20 bg-white">
-      <div class="row mar10-bot">
-        <h3 class="text-mblue text-center">Digital Media and Learning Kick Meetup: <br />Kick Off to Play Make Learn</h3>
-      </div>
-      <div class="row">
-        <p class="text-dblue text-center"><span class="text-bold">Sunday, August 13</span> |  <span class="text-bold">4-6pm</span>  |  <span class="text-bold">Filament Games</span> |  <a href="https://www.eventbrite.com/e/digital-media-and-learning-grand-challenges-meet-up-and-kickoff-to-play-make-learn-registration-36485289483" class="text-orange text-bold" target="_blank">Register Here</a></p>
-      </div>
-    </div>
-    <!-- END: Kick Off Party -->
     <!-- Overview -->
     <div id="schedule"></div>
       <div class="row mar30-top">
@@ -64,17 +53,7 @@
             <h2 class="text-orange"><span class="text-white"><i class="fa fa-calendar" aria-hidden="true"></i></span> Conference Agenda Overview</h2>
           </div>
           <div class="row mar20-bot bg-owhite pad20">
-            <h3 class="text-white">Sunday, August 13 Evening event at <span class="text-orange">Filament Games</span></h3>
-          </div>
-          <div class="row bg-owhite pad20">
-            <h3 class="text-white mar10-bot">Monday, August 14 Conference at <span class="text-orange">Union South</span></h3>
-            <ul class="disc text-lblue">
-              <li>Breakfast / Keynote / Poster Fair</li>
-              <li>Sessions / Makerspace / Game Jam</li>
-              <li>Lunch / Poster Fair</li>
-              <li>Sessions / Makerspace / Game Jam</li>
-              <li>Happy Hour</li>
-            </ul>
+            <h3 class="text-white">Stay tuned for agenda details for the 2018 conference</h3>
           </div>
         </div>
       </div><!-- END: Overview -->
