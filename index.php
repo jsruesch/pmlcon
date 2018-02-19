@@ -28,21 +28,26 @@
       </div><!-- END: Header -->
     <!-- Call for Posters -->
       <div class="row">
-        <div class="col-sm-4">
+        <div class="col-sm-6">
           <div class="row">
-            <a href="https://docs.google.com/a/wisc.edu/forms/d/e/1FAIpQLSeGmTKvh6s3j01YPBsIQKOODO1iGcgtHodLFrfoNm2UWi7y4g/viewform?usp=sf_link" target="_blank" class="button bg-orange text-white">Call for Posters!</a>
+            <a href="call-for-posters.php" target="_blank" class="button bg-orange text-white">Call for Posters and Demos!</a>
           </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-6">
+          <div class="row">
+            <a href="https://docs.google.com/forms/d/1ywyOYFr0NqPndyBM3xtuQyEaTF27GDLwh0xnQ2zqaLU/viewform?edit_requested=true" target="_blank" class="button bg-mblue text-white">K-12 Scholarship Applicatoins</a>
+          </div>
+        </div>
+        <!-- <div class="col-sm-4">
           <div class="row">
             <a href="https://twitter.com/Play_Make_Learn" target="_blank" class="button bg-mblue text-white"><i class="fa fa-twitter" aria-hidden="true"></i> Follow us</a>
           </div>
         </div>
-        <div class="col-sm-4">
+        <div class="col-sm-">
           <div class="row">
             <a href="https://playmakelearnconference2017.sched.com/" target="_blank" class="button bg-dblue text-white"><i class="fa fa-calendar" aria-hidden="true"></i> Full Schedule </a>
           </div>
-        </div>
+        </div>-->
 
       </div><!-- END: Call for Posters -->
     <!-- Overview -->
