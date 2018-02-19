@@ -35,7 +35,7 @@
         </div>
         <div class="col-sm-6">
           <div class="row">
-            <a href="https://docs.google.com/forms/d/1ywyOYFr0NqPndyBM3xtuQyEaTF27GDLwh0xnQ2zqaLU/viewform?edit_requested=true" target="_blank" class="button bg-mblue text-white">K-12 Scholarship Applicatoins</a>
+            <a href="https://docs.google.com/forms/d/1ywyOYFr0NqPndyBM3xtuQyEaTF27GDLwh0xnQ2zqaLU/viewform?edit_requested=true" target="_blank" class="button bg-mblue text-white">K-12 Scholarship Applications</a>
           </div>
         </div>
         <!-- <div class="col-sm-4">
