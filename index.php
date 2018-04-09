@@ -15,6 +15,7 @@
           <div class="row text-center">
             <h2 class="text-mblue">Save the Date!</h2>
             <h3 class="text-dblue">August 13-14, 2018</h3>
+            <h5 class="text-dblue">Union South, University of Wisconsin Madison</h5>
           </div>
           <!-- <div class="row mar20-top mar20-bot">
             <a href="https://registration.eop.education.wisc.edu/index.aspx?id=43" target="_blank" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
@@ -28,16 +29,16 @@
       </div><!-- END: Header -->
     <!-- Call for Posters -->
       <div class="row">
-        <div class="col-sm-6">
+        <div class="col-sm-12">
           <div class="row">
-            <a href="call-for-posters.php" target="_blank" class="button bg-orange text-white">Call for Posters and Demos!</a>
+            <a href="call-for-posters.php" target="_blank" class="button bg-mblue text-white">Call for Posters and Demos!</a>
           </div>
         </div>
-        <div class="col-sm-6">
+        <!-- <div class="col-sm-6">
           <div class="row">
             <a href="https://docs.google.com/forms/d/1ywyOYFr0NqPndyBM3xtuQyEaTF27GDLwh0xnQ2zqaLU/viewform?edit_requested=true" target="_blank" class="button bg-mblue text-white">K-12 Scholarship Applications</a>
           </div>
-        </div>
+        </div> -->
         <!-- <div class="col-sm-4">
           <div class="row">
             <a href="https://twitter.com/Play_Make_Learn" target="_blank" class="button bg-mblue text-white"><i class="fa fa-twitter" aria-hidden="true"></i> Follow us</a>
@@ -68,12 +69,35 @@
           <h2 class="text-white"><i class="fa fa-bed" aria-hidden="true"></i> Lodging</h2>
           <p class="text-white">
             Lodging is available through a group rate at the
-            <a href="http://bit.ly/play13aug" target="_blank" class="text-white">Lowell Center</a> or
-            <a href="http://hamptoninn.hilton.com/en/hp/groups/personalized/M/MSNBJHX-PML-20170813/index.jhtml?WT.mc_id=POG" target="_blank" class="text-white">Hampton Inn</a>.
+            <a href="http://bit.ly/playmake14aug" target="_blank" class="text-white">Lowell Center</a> or
+            <a href="http://hamptoninn.hilton.com/en/hp/groups/personalized/M/MSNBJHX-PML-20180812/index.jhtml?WT.mc_id=POG" target="_blank" class="text-white">Hampton Inn</a>.
           </p>
         </div>
       </div><!-- END: lodging -->
-    <!-- Keynotes here -->
+    <!-- Keynotes -->
+    <div id="keynote"></div>
+      <div class="row bg-white pad60">
+        <div class="row pad10-left">
+          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speakers</h2>
+        </div>
+      <!-- Nichole Pinkard -->
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="row pad10">
+              <img class="full" src="img/portraits/portrait-emery-petchauer.png" />
+            </div>
+          </div>
+          <div class="col-sm-8">
+            <div class="row pad10">
+              <h3 class="text-dblue">Emery Petchauer</h3>
+              <hr />
+              <p class="text-dblue">
+                Emery Petchauer is an Associate Professor in the Departments of English and Teacher Education at Michigan State University where he also coordinates the English education program. His research and practice has focused on the aesthetic qualities of urban arts, particularly hip-hop culture, and their connections to teaching, learning, and living. His books include  <a href="https://read.amazon.com/kp/embed?asin=B0076XCQZG&ref_=cm_sw_r_cp_ep_dp_k_fWDZxb0FGGTWB&reshareId=D84FCSVRNNSSTCPB37H1&reshareChannel=system" target="_blank">Hip-Hop Culture in College Students' Lives</a> (Routledge, 2012) and <a href="https://read.amazon.com/kp/embed?asin=B00O129OLO&ref_=cm_sw_r_cp_ep_dp_k_TVDZxbGF763YX&reshareId=5C6DTJ8PTABZKYAW9B6A&reshareChannel=system" target="_blank">Schooling Hip-Hop: Expanding Hip-Hop Based Education Across the Curriculum</a> (Teachers College Press, 2013). A former turntablist and high school teacher, Emery gets most excited about making spaces for young people to create sound and movement alongside artists in their community. He currently facilitates a community beatmaking space with other artists in Pontiac, Michigan.
+              </p>
+            </div>
+          </div>
+        </div><!-- END: Nichole Pinkard -->
+      </div><!-- END: Keynote -->
     <!-- Story -->
     <div id="story"></div>
       <div class="row">

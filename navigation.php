@@ -12,7 +12,7 @@
         </div>
         <div class="col-xs-15">
           <div class="row bg-orange">
-            <a href="https://registration.eop.education.wisc.edu/index.aspx?id=43" target="_blank" class="text-white">
+            <a href="https://registration.eop.education.wisc.edu/index.aspx?id=225" target="_blank" class="text-white">
               <span class="text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span>
               <span class="nav-button-text">Register</span>
             </a>
