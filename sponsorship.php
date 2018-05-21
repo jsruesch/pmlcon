@@ -235,116 +235,117 @@
           </div>
         </div>
       </div><!-- END: Overview -->
+      <!-- Details -->
+        <!-- Keynotes -->
+        <div class="row bg-white pad60">
+          <div class="row">
+            <h2 class="text-orange">Sponsorship Details</h2>
+          </div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Lunch (Mon. August 13th or Tues. August 14th): <span class="text-orange">$3,000</span>
+            </h3>
+            <ol class="disc">
+              <li>Exclusive sponsorship of the lunch scheduled for 12:00pm-1:00pm on Mon. August 13th or Tues. August 14th </li>
+              <li>Includes custom printed napkins with company logo, electronic display of company logo/information during lunch hour, public acknowledgement by PML conference organizer, 5-10 minute speaking/presentation opportunity, exhibitor table for 2 days, acknowledgement in program</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Breakfast (Mon. August 13th or Tues. August 14th):  <span class="text-orange">$2,000</span>
+            </h3>
+            <ol class="disc">
+              <li>Exclusive sponsorship of the breakfast scheduled for 8:00am-9:00am on Mon. August 13th or Tues. August 14th</li>
+              <li>Includes custom printed napkins with company logo, electronic display of company logo/information during breakfast hour, public acknowledgement by PML conference organizer, exhibitor table for 1 day, acknowledgement in program</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Morning coffee break (Mon. August 13th or Tues. August 14th): <span class="text-orange">$500</span>
+            </h3>
+            <ol class="disc">
+              <li>Exclusive sponsorship of coffee break scheduled for 10:45-11:00 am on Mon. August 13th or Tues. August 14th</li>
+              <li>Electronic display of company logo/information during coffee break, acknowledgement in program</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Exhibitor table (2 days): <span class="text-orange">$1,250</span>
+            </h3>
+            <ol class="disc">
+              <li>3' x 6' clothed table, 2 chairs, Mon. August 13th 8:00 a.m.-5:00 p.m., &Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Exhibitor table (1 day): <span class="text-orange">$750</span>
+            </h3>
+            <ol class="disc">
+              <li>3' x 6' clothed table, 2 chairs, Mon. August 13th 8:00 a.m.-5:00 p.m. or Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Exhibitor hightop table (2 days): <span class="text-orange">$500</span>
+            </h3>
+            <ol class="disc">
+              <li>2' round clothed hightop table, Mon. August 13th 8:00 a.m.-5:00 p.m. & Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Exhibitor hightop table (1 day): <span class="text-orange">$250</span>
+            </h3>
+            <ol class="disc">
+              <li>2' round clothed hightop table, Mon. August 13th 8:00 a.m.-5:00 p.m. or Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on websites</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Full-page sponsorship in conference program: <span class="text-orange">$1,000</span>
+            </h3>
+            <ol class="disc">
+              <li>8" x 5.5" space dedicated to your organization (print and online)</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Half-page sponsorship in conference program: <span class="text-orange">$500</span>
+            </h3>
+            <ol class="disc">
+              <li>4" x 5 1/2" space dedicated to your organization (print and online)</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Company logo on namebadges: <span class="text-orange">$500</span>
+            </h3>
+            <ol class="disc">
+              <li>Color company logo printed on all attendee and presenter namebadges</li>
+            </ol>
+          </div>
+          <div class="row mar30-bot"><hr /></div>
+          <div class="row mar20-top mar20-bot">
+            <h3 class="text-dblue">
+              Logo in the conference program: <span class="text-orange">$250</span>
+            </h3>
+            <ol class="disc">
+              <li>Print and online</li>
+            </ol>
+          </div>
+          <hr />
     </div><!-- /.container -->
 
-  <!-- Details -->
-    <!-- Keynotes -->
-    <div class="row bg-white pad60">
-      <div class="row">
-        <h2 class="text-orange">Sponsorship Details</h2>
-      </div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Lunch (Mon. August 13th or Tues. August 14th): <span class="text-orange">$3,000</span>
-        </h3>
-        <ol class="disc">
-          <li>Exclusive sponsorship of the lunch scheduled for 12:00pm-1:00pm on Mon. August 13th or Tues. August 14th </li>
-          <li>Includes custom printed napkins with company logo, electronic display of company logo/information during lunch hour, public acknowledgement by PML conference organizer, 5-10 minute speaking/presentation opportunity, exhibitor table for 2 days, acknowledgement in program</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Breakfast (Mon. August 13th or Tues. August 14th):  <span class="text-orange">$2,000</span>
-        </h3>
-        <ol class="disc">
-          <li>Exclusive sponsorship of the breakfast scheduled for 8:00am-9:00am on Mon. August 13th or Tues. August 14th</li>
-          <li>Includes custom printed napkins with company logo, electronic display of company logo/information during breakfast hour, public acknowledgement by PML conference organizer, exhibitor table for 1 day, acknowledgement in program</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Morning coffee break (Mon. August 13th or Tues. August 14th): <span class="text-orange">$500</span>
-        </h3>
-        <ol class="disc">
-          <li>Exclusive sponsorship of coffee break scheduled for 10:45-11:00 am on Mon. August 13th or Tues. August 14th</li>
-          <li>Electronic display of company logo/information during coffee break, acknowledgement in program</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Exhibitor table (2 days): <span class="text-orange">$1,250</span>
-        </h3>
-        <ol class="disc">
-          <li>3' x 6' clothed table, 2 chairs, Mon. August 13th 8:00 a.m.-5:00 p.m., &Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Exhibitor table (1 day): <span class="text-orange">$750</span>
-        </h3>
-        <ol class="disc">
-          <li>3' x 6' clothed table, 2 chairs, Mon. August 13th 8:00 a.m.-5:00 p.m. or Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Exhibitor hightop table (2 days): <span class="text-orange">$500</span>
-        </h3>
-        <ol class="disc">
-          <li>2' round clothed hightop table, Mon. August 13th 8:00 a.m.-5:00 p.m. & Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Exhibitor hightop table (1 day): <span class="text-orange">$250</span>
-        </h3>
-        <ol class="disc">
-          <li>2' round clothed hightop table, Mon. August 13th 8:00 a.m.-5:00 p.m. or Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on websites</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Full-page sponsorship in conference program: <span class="text-orange">$1,000</span>
-        </h3>
-        <ol class="disc">
-          <li>8" x 5.5" space dedicated to your organization (print and online)</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Half-page sponsorship in conference program: <span class="text-orange">$500</span>
-        </h3>
-        <ol class="disc">
-          <li>4" x 5 1/2" space dedicated to your organization (print and online)</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Company logo on namebadges: <span class="text-orange">$500</span>
-        </h3>
-        <ol class="disc">
-          <li>Color company logo printed on all attendee and presenter namebadges</li>
-        </ol>
-      </div>
-      <div class="row mar30-bot"><hr /></div>
-      <div class="row mar20-top mar20-bot">
-        <h3 class="text-dblue">
-          Logo in the conference program: <span class="text-orange">$250</span>
-        </h3>
-        <ol class="disc">
-          <li>Print and online</li>
-        </ol>
-      </div>
-      <hr />
+
     </div><!-- END: Details -->
 
 
