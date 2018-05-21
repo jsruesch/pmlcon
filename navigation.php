@@ -20,7 +20,7 @@
         </div>
         <div class="col-xs-15">
           <div class="row">
-            <a href="#schedule" class="text-white" target="_blank">
+            <a href="index.php#schedule" class="text-white">
               <span class="text-orange"><i class="fa fa-calendar" aria-hidden="true"></i></span>
               <span class="nav-button-text">Schedule</span>
             </a>
@@ -28,7 +28,7 @@
         </div>
         <div class="col-xs-15">
           <div class="row">
-            <a href="#lodging" class="text-white">
+            <a href="index.php#lodging" class="text-white">
               <span class="text-orange"><i class="fa fa-bed" aria-hidden="true"></i></span>
               <span class="nav-button-text">Lodging</span>
             </a>
@@ -36,7 +36,7 @@
         </div>
         <div class="col-xs-15">
           <div class="row">
-            <a href="#keynote" class="text-white">
+            <a href="/#keynote" class="text-white">
               <span class="text-orange"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span>
               <span class="nav-button-text">Keynotes</span>
             </a>

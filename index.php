@@ -29,16 +29,16 @@
       </div><!-- END: Header -->
     <!-- Call for Posters -->
       <div class="row">
-        <div class="col-sm-12">
+        <div class="col-sm-6">
           <div class="row">
             <a href="call-for-posters.php" target="_blank" class="button bg-mblue text-white">Call for Posters and Demos!</a>
           </div>
         </div>
-        <!-- <div class="col-sm-6">
+        <div class="col-sm-6">
           <div class="row">
-            <a href="https://docs.google.com/forms/d/1ywyOYFr0NqPndyBM3xtuQyEaTF27GDLwh0xnQ2zqaLU/viewform?edit_requested=true" target="_blank" class="button bg-mblue text-white">K-12 Scholarship Applications</a>
+            <a href="sponsorship.php" class="button bg-orange text-white">Sponsorship Opportunites</a>
           </div>
-        </div> -->
+        </div>
         <!-- <div class="col-sm-4">
           <div class="row">
             <a href="https://twitter.com/Play_Make_Learn" target="_blank" class="button bg-mblue text-white"><i class="fa fa-twitter" aria-hidden="true"></i> Follow us</a>
