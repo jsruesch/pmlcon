@@ -80,7 +80,7 @@
         <div class="row pad10-left">
           <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speakers</h2>
         </div>
-      <!-- Nichole Pinkard -->
+      <!-- Emery Petchauer -->
         <div class="row">
           <div class="col-sm-4">
             <div class="row pad10">
@@ -96,7 +96,24 @@
               </p>
             </div>
           </div>
-        </div><!-- END: Nichole Pinkard -->
+        </div><!-- END: Emery Petchauer -->
+      <!-- Jane Werner -->
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="row pad10">
+              <img class="full" src="img/portraits/portrait-jane-werner.png" />
+            </div>
+          </div>
+          <div class="col-sm-8">
+            <div class="row pad10">
+              <h3 class="text-dblue">Jane Werner</h3>
+              <hr />
+              <p class="text-dblue">
+                Jane Werner's 34 years of museum experience includes 26 years at The Children's Museum of Pittsburgh where she served as Program Director, Deputy Director and currently Executive Director.  Werner leads the team responsible for all aspects of the Museum's mission and vision, exhibits, public programming, funding and operations. The Children's Museum of Pittsburgh expanded in November 2004 after the completion of a $29M capital campaign.  Attendance grew from 80,000 to currently 300,000. The project was the recipient of the 2006 American Institute of Architects National Award and National Trust for Historic Preservation Award. The Museum received the 2009 National Medal from the Institute of Museum and Library Services for its work in the community and in 2011 the Children's Museum of Pittsburgh was named one of the top ten children's museums by Parents Magazine. Under Werner's leadership and in partnership with the Warhol Museum, the Children's Museum reopened the closed New Hazlett Theater, raising over $2million and creating a separate 501c3 organization. In 2013, the museum was cited by AAM Press in the book <u>Magnetic</u> as one of six museums <i>with powerful internal alignment and a compelling vision allowing it to attract the critical resources for success</i>.
+              </p>
+            </div>
+          </div>
+        </div><!-- END: Jane Werner -->
       </div><!-- END: Keynote -->
     <!-- Story -->
     <div id="story"></div>
