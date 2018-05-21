@@ -4,7 +4,7 @@
       <div class="row">
         <div class="col-xs-15">
           <div class="row">
-            <a href="index.php" class="text-white">
+            <a href="/" class="text-white">
               <span class="text-orange"><i class="fa fa-home" aria-hidden="true"></i></span>
               <span class="nav-button-text">Home</span>
             </a>
@@ -20,7 +20,7 @@
         </div>
         <div class="col-xs-15">
           <div class="row">
-            <a href="index.php#schedule" class="text-white">
+            <a href="/#schedule" class="text-white">
               <span class="text-orange"><i class="fa fa-calendar" aria-hidden="true"></i></span>
               <span class="nav-button-text">Schedule</span>
             </a>
@@ -28,7 +28,7 @@
         </div>
         <div class="col-xs-15">
           <div class="row">
-            <a href="index.php#lodging" class="text-white">
+            <a href="/#lodging" class="text-white">
               <span class="text-orange"><i class="fa fa-bed" aria-hidden="true"></i></span>
               <span class="nav-button-text">Lodging</span>
             </a>
