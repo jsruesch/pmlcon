@@ -33,6 +33,9 @@
           <div class="row mar20-bot">
             <h2 class="text-orange">Sponsorship Opportunities</h2>
           </div>
+          <div class="row mar30-bot">
+            <p class="text-lblue">Interested in becoming a sponsor? Contact <a href="mailto:playmakelearninfo@gmail.com" target="_blank">playmakelearninfo@gmail.com</a></p>
+          </div>
           <!-- Row -->
           <div class="row bg-owhite pad20">
             <div class="col-sm-8">
