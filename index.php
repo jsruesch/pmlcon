@@ -60,6 +60,10 @@
           </div>
           <div class="row mar20-bot bg-owhite pad20">
             <h3 class="text-white">Stay tuned for agenda details for the 2018 conference</h3>
+            <p>
+              <a href="https://playmakelearnconference2017.sched.com/">Click here to view the 2017 schedule.</a>
+              <span class="text-lblue">Stay tuned for 2018 details.</span>
+            </p>
           </div>
         </div>
       </div><!-- END: Overview -->
