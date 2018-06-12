@@ -63,7 +63,7 @@
             <p>
               <span class="text-lblue">We are excited to present the </span>
               <a href="https://playmakelearn2018.sched.com" target="_blank">schedule for the 2018 Play Make Learn Conference</a>
-              <span class="text-lblue">his year's conference will include some of the favorites from last year including the arcade area and sessions on everything from making to VR as well as many more interactive sessions allowing for participants to learn through play. In addition to our demo event where participants will play new and exciting games from developers and educators, there will be opportunities to learn from students about the work they have been producing as well. </span>
+              <span class="text-lblue">this year's conference will include some of the favorites from last year including the arcade area and sessions on everything from making to VR as well as many more interactive sessions allowing for participants to learn through play. In addition to our demo event where participants will play new and exciting games from developers and educators, there will be opportunities to learn from students about the work they have been producing as well. </span>
             </p>
           </div>
         </div>
