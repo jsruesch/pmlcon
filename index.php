@@ -59,10 +59,11 @@
             <h2 class="text-orange"><span class="text-white"><i class="fa fa-calendar" aria-hidden="true"></i></span> Conference Agenda Overview</h2>
           </div>
           <div class="row mar20-bot bg-owhite pad20">
-            <h3 class="text-white">Stay tuned for agenda details for the 2018 conference</h3>
+            <h3 class="text-white">2018 Conference Details</h3>
             <p>
-              <a href="https://playmakelearnconference2017.sched.com/">Click here to view the 2017 schedule.</a>
-              <span class="text-lblue">Stay tuned for 2018 details.</span>
+              <span class="text-lblue">We are excited to present the </span>
+              <a href="https://playmakelearn2018.sched.com" target="_blank">schedule for the 2018 Play Make Learn Conference</a>
+              <span class="text-lblue">his year's conference will include some of the favorites from last year including the arcade area and sessions on everything from making to VR as well as many more interactive sessions allowing for participants to learn through play. In addition to our demo event where participants will play new and exciting games from developers and educators, there will be opportunities to learn from students about the work they have been producing as well. </span>
             </p>
           </div>
         </div>
