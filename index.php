@@ -17,21 +17,25 @@
             <h3 class="text-dblue">August 13-14, 2018</h3>
             <h5 class="text-dblue">Union South, University of Wisconsin Madison</h5>
           </div>
-          <!-- <div class="row mar20-top mar20-bot">
-            <a href="https://registration.eop.education.wisc.edu/index.aspx?id=43" target="_blank" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
-          </div> -->
-          <div class="row mar20-top">
+          <div class="row mar20-top mar20-bot">
+            <a href="https://registration.eop.education.wisc.edu/index.aspx?id=225" target="_blank" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
+          </div>
+          <div class="row">
+            <p class="text-center text-mblue">2-Day Registration: <span class="text-bold">$150</span></p>
+            <p class="text-center text-mblue">1-Day Registration: <span class="text-bold">$100</span></p>
+          </div>
+          <!-- <div class="row mar20-top">
             <p class="text-dblue text-center">
               Questions? <a href="mailto:playmakelearninfo@gmail.com" target="_blank">Send us an email!</a> <br />We'd be happy to answer them for you!
             </p>
-          </div>
+          </div> -->
         </div>
       </div><!-- END: Header -->
     <!-- Call for Posters -->
       <div class="row">
         <div class="col-sm-6">
           <div class="row">
-            <a href="call-for-posters.php" target="_blank" class="button bg-mblue text-white">Call for Posters and Demos!</a>
+            <a href="mailto:playmakelearninfo@gmail.com" target="_blank" class="button bg-mblue text-white">Questions? Send us an email!</a>
           </div>
         </div>
         <div class="col-sm-6">
@@ -49,7 +53,6 @@
             <a href="https://playmakelearnconference2017.sched.com/" target="_blank" class="button bg-dblue text-white"><i class="fa fa-calendar" aria-hidden="true"></i> Full Schedule </a>
           </div>
         </div>-->
-
       </div><!-- END: Call for Posters -->
     <!-- Overview -->
     <div id="schedule"></div>
@@ -300,6 +303,30 @@
               <h3 class="text-dblue">Dan Norton</h3>
               <p class="text-ddblue">
                 Dan Norton is a founding partner and CCO at Filament Games. He specializes in crafting educational game design documents and storyboards that originate from learning objectives. Dan sees Filament as an opportunity to merge his life long love of games with his incessant quest to learn about new and interesting things. Filament games creates educational games meant to engage, inspire, and motivate. They have created over 100 digital learning games in the past 10 years.
+              </p>
+            </div>
+          </div><!-- END: Rich -->
+        <!-- Peter -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-peter.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Peter Wardrip</h3>
+              <p class="text-ddblue">
+                Peter Wardrip is an Assistant Professor of STEAM Education at the University of Wisconsin-Madison. He currently co-leads the Agency by Design Pittsburgh teacher learning community with Dr. Jeff Evancho. His research focuses on informal/formal learning collaborations, professional learning for educators, formative assessment and making as a learning process. Peter earned his PhD in Learning Sciences and Policy from University of Pittsburgh and is currently a visiting researcher with the University of Pittsburgh Center for Learning in Out of School Environments (UPCLOSE) and the Learning Media Design Center at Carnegie Mellon University. Peter enjoys playing soccer, euchre and drinking hot cocoa with his family.
+              </p>
+            </div>
+          </div><!-- END: Peter -->
+        <!-- Rich -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-jessie.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Jessie Nixon - <span class="text-orange">Conference Director</span></h3>
+              <p class="text-ddblue">
+                Jessie Nixon is a doctoral student in Curriculum and Instruction and Digital Media at the University of Wisconsin-Madison. Her research interests involve digital storytelling, multimodal composition, and digital critique practices. She taught high school English in Virginia and Alaska as well as English Composition courses at the University of Alaska Anchorage. She is currently working with Wisconsin Public Television in developing Click, a professional community of educators and students across the state who are working to improve digital storytelling and digital media production
               </p>
             </div>
           </div><!-- END: Rich -->
