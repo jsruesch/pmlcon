@@ -241,6 +241,9 @@
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-field-day.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-filament.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-gear-learning.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-bloxels.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-imagine-learning.png" /></div>
+            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-wpt.png" /></div>
           </div>
           <hr />
           <div class="row">
