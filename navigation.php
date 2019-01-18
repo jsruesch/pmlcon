@@ -18,14 +18,14 @@
             </a>
           </div>
         </div>
-        <div class="col-xs-15">
+<!--         <div class="col-xs-15">
           <div class="row">
             <a href="https://playmakelearn2018.sched.com" class="text-white" target="_blank">
               <span class="text-orange"><i class="fa fa-calendar" aria-hidden="true"></i></span>
               <span class="nav-button-text">Schedule</span>
             </a>
           </div>
-        </div>
+        </div> -->
         <div class="col-xs-15">
           <div class="row">
             <a href="/#lodging" class="text-white">
