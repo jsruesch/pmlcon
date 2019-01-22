@@ -14,15 +14,8 @@
         <div class="col-sm-6 pad60 mar50-top bg-white">
           <div class="row text-center">
             <h2 class="text-mblue">Save the Date!</h2>
-            <h3 class="text-dblue">August 13-14, 2018</h3>
+            <h3 class="text-dblue">August 8-9, 2019</h3>
             <h5 class="text-dblue">Union South, University of Wisconsin Madison</h5>
-          </div>
-          <div class="row mar20-top mar20-bot">
-            <a href="https://registration.eop.education.wisc.edu/index.aspx?id=225" target="_blank" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
-          </div>
-          <div class="row">
-            <p class="text-center text-mblue">2-Day Registration: <span class="text-bold">$150</span></p>
-            <p class="text-center text-mblue">1-Day Registration: <span class="text-bold">$100</span></p>
           </div>
           <!-- <div class="row mar20-top">
             <p class="text-dblue text-center">
@@ -62,12 +55,13 @@
             <h2 class="text-orange"><span class="text-white"><i class="fa fa-calendar" aria-hidden="true"></i></span> Conference Agenda Overview</h2>
           </div>
           <div class="row mar20-bot bg-owhite pad20">
-            <h3 class="text-white">2018 Conference Details</h3>
-            <p>
+            <h3 class="text-white">Stay tuned for 2019 details.</h3>
+<!-- 2018 details commented out for reference when writing 2019 details. -->
+<!--             <p>
               <span class="text-lblue">We are excited to present the </span>
               <a href="https://playmakelearn2018.sched.com" target="_blank">schedule for the 2018 Play Make Learn Conference</a>
               <span class="text-lblue">this year's conference will include some of the favorites from last year including the arcade area and sessions on everything from making to VR as well as many more interactive sessions allowing for participants to learn through play. In addition to our demo event where participants will play new and exciting games from developers and educators, there will be opportunities to learn from students about the work they have been producing as well. </span>
-            </p>
+            </p> -->
           </div>
         </div>
       </div><!-- END: Overview -->
@@ -86,9 +80,10 @@
     <div id="keynote"></div>
       <div class="row bg-white pad60">
         <div class="row pad10-left">
-          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Keynote Speakers</h2>
+          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Stay tuned for 2019 Keynote Presentations</h2>
         </div>
-      <!-- Emery Petchauer -->
+<!-- Details about 2018 keynotes commented out for reference when writing 2019 keynote descriptions.-->
+<!--       <!-- Emery Petchauer -->
         <div class="row">
           <div class="col-sm-4">
             <div class="row pad10">
@@ -121,7 +116,7 @@
               </p>
             </div>
           </div>
-        </div><!-- END: Jane Werner -->
+        </div><!-- END: Jane Werner --> -->
       </div><!-- END: Keynote -->
     <!-- Story -->
     <div id="story"></div>
