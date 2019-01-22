@@ -9,7 +9,7 @@
     <!-- Header -->
       <div class="row pad60">
         <div class="col-sm-6">
-          <img class="center-block main-logo" src="img/logo-2018.png" />
+          <img class="center-block main-logo" src="img/logo-2019.svg" />
         </div>
         <div class="col-sm-6 pad60 mar50-top bg-white">
           <div class="row text-center">
