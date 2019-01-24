@@ -9,7 +9,7 @@
     <!-- Header -->
       <div class="row pad60">
         <div class="col-sm-6">
-          <img class="center-block main-logo" src="img/logo-2019.svg" />
+          <img class="center-block main-logo" src="img/logo-2019.png" />
         </div>
         <div class="col-sm-6 pad60 mar50-top bg-white">
           <div class="row text-center">
@@ -84,7 +84,7 @@
         </div>
 <!-- Details about 2018 keynotes commented out for reference when writing 2019 keynote descriptions.-->
 <!--       <!-- Emery Petchauer -->
-        <div class="row">
+<!--         <div class="row">
           <div class="col-sm-4">
             <div class="row pad10">
               <img class="full" src="img/portraits/portrait-emery-petchauer.png" />
@@ -99,9 +99,9 @@
               </p>
             </div>
           </div>
-        </div><!-- END: Emery Petchauer -->
+        </div><!-- END: Emery Petchauer --> -->
       <!-- Jane Werner -->
-        <div class="row">
+<!--         <div class="row">
           <div class="col-sm-4">
             <div class="row pad10">
               <img class="full" src="img/portraits/portrait-jane-werner.png" />
@@ -117,7 +117,7 @@
             </div>
           </div>
         </div><!-- END: Jane Werner --> -->
-      </div><!-- END: Keynote -->
+<!--       </div>END: Keynote --> -->
     <!-- Story -->
     <div id="story"></div>
       <div class="row">
@@ -317,7 +317,7 @@
             </div>
           </div><!-- END: Peter -->
 <!--         <!-- Rich -->
-          <div class="row mar10-top">
+<!--           <div class="row mar10-top">
             <div class="col-sm-2 pad10">
               <img class="full mar20-bot" src="img/portraits/portrait-jessie.png" />
             </div>
