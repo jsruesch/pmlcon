@@ -327,7 +327,7 @@
                 Jessie Nixon is a doctoral student in Curriculum and Instruction and Digital Media at the University of Wisconsin-Madison. Her research interests involve digital storytelling, multimodal composition, and digital critique practices. She taught high school English in Virginia and Alaska as well as English Composition courses at the University of Alaska Anchorage. She is currently working with Wisconsin Public Television in developing Click, a professional community of educators and students across the state who are working to improve digital storytelling and digital media production
               </p>
             </div>
-          </div><!-- END: Rich --> -->
+          </div><!-- END: Rich -->
         </div>
       </div><!-- END: Sponsors -->
     </div><!-- /.container -->
