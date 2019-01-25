@@ -79,7 +79,7 @@
     <!-- Keynotes -->
     <div id="keynote"></div>
       <div class="row bg-white pad60">
-        <div class="row pad10-left">
+        <div class="row pad10-left pad30-bot">
           <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle-o" aria-hidden="true"></i></span> Stay tuned for 2019 Keynote Presentations</h2>
         </div>
 <!-- Details about 2018 keynotes commented out for reference when writing 2019 keynote descriptions.-->
