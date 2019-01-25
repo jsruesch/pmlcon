@@ -99,7 +99,7 @@
               </p>
             </div>
           </div>
-        </div><!-- END: Emery Petchauer --> -->
+        </div><!-- END: Emery Petchauer -->
       <!-- Jane Werner -->
 <!--         <div class="row">
           <div class="col-sm-4">
@@ -116,8 +116,8 @@
               </p>
             </div>
           </div>
-        </div><!-- END: Jane Werner --> -->
-<!--       </div>END: Keynote --> -->
+        </div><!-- END: Jane Werner -->
+<!--       </div>END: Keynote -->
     <!-- Story -->
     <div id="story"></div>
       <div class="row">
