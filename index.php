@@ -222,7 +222,7 @@
       <div class="row">
         <div class="col-sm-12 bg-white pad60">
           <div class="row mar20-bot">
-            <h2 class="text-orange mar10-bot"><span class="text-dblue"><i class="fa fa-handshake-o" aria-hidden="true"></i></span> Sponsors</h2>
+            <h2 class="text-orange mar10-bot"><span class="text-dblue"><i class="fa fa-handshake-o" aria-hidden="true"></i></span> 2018 Sponsors</h2>
             <p class="text-dblue">
               Play Make Learn is proud of its many sponsors including the Wisconsin Department of Public Instruction, Education Outreach and Partnerships, The Network, School Of Education, and Wisconsin Center for Education Research.
             </p>
