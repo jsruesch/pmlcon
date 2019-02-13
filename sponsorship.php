@@ -9,21 +9,21 @@
       <!-- Header -->
         <div class="row pad60">
           <div class="col-sm-6">
-            <img class="center-block main-logo" src="img/logo-2018.png" />
+            <img class="center-block main-logo" src="img/logo-2019.png" />
           </div>
           <div class="col-sm-6 pad60 mar50-top bg-white">
             <div class="row text-center">
               <h2 class="text-mblue">Save the Date!</h2>
-              <h3 class="text-dblue">August 13-14, 2018</h3>
+              <h3 class="text-dblue">August 8-9, 2019</h3>
               <h5 class="text-dblue">Union South, University of Wisconsin Madison</h5>
-            </div>
+<!--             </div>
             <div class="row mar20-top mar20-bot">
               <a href="https://registration.eop.education.wisc.edu/index.aspx?id=225" target="_blank" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
             </div>
             <div class="row">
               <p class="text-center text-mblue">2-Day Registration: <span class="text-bold">$150</span></p>
               <p class="text-center text-mblue">1-Day Registration: <span class="text-bold">$100</span></p>
-            </div>
+            </div> -->
             <!-- <div class="row mar20-top">
               <p class="text-dblue text-center">
                 Questions? <a href="mailto:playmakelearninfo@gmail.com" target="_blank">Send us an email!</a> <br />We'd be happy to answer them for you!
@@ -57,7 +57,7 @@
           <div class="row pad20">
             <div class="col-sm-8">
               <p class="text-lblue text-center">
-                Lunch (August 13th)
+                Lunch (August 8th)
               </p>
             </div>
             <div class="col-sm-4">
@@ -70,7 +70,7 @@
           <div class="row bg-owhite pad20">
             <div class="col-sm-8">
               <p class="text-lblue text-center">
-                Lunch (August 14th)
+                Lunch (August 9th)
               </p>
             </div>
             <div class="col-sm-4">
@@ -83,7 +83,7 @@
           <div class="row pad20">
             <div class="col-sm-8">
               <p class="text-lblue text-center">
-                Breakfast (August 13th)
+                Breakfast (August 8th)
               </p>
             </div>
             <div class="col-sm-4">
@@ -96,7 +96,7 @@
           <div class="row bg-owhite pad20">
             <div class="col-sm-8">
               <p class="text-lblue text-center">
-                Breakfast (August 14th)
+                Breakfast (August 9th)
               </p>
             </div>
             <div class="col-sm-4">
@@ -109,7 +109,7 @@
           <div class="row pad20">
             <div class="col-sm-8">
               <p class="text-lblue text-center">
-                Morning coffee break (August 13th)
+                Morning coffee break (August 8th)
               </p>
             </div>
             <div class="col-sm-4">
@@ -122,7 +122,7 @@
           <div class="row bg-owhite pad20">
             <div class="col-sm-8">
               <p class="text-lblue text-center">
-                Morning coffee break (August 14th)
+                Morning coffee break (August 9th)
               </p>
             </div>
             <div class="col-sm-4">
@@ -250,7 +250,7 @@
           </div>
           <div class="row mar20-top mar20-bot">
             <h3 class="text-dblue">
-              Lunch (Mon. August 13th or Tues. August 14th): <span class="text-orange">$3,000</span>
+              Lunch (Mon. August 8th or Tues. August 9th): <span class="text-orange">$3,000</span>
             </h3>
             <ol class="disc">
               <li>Exclusive sponsorship of the lunch scheduled for 12:00pm-1:00pm on Mon. August 13th or Tues. August 14th </li>
@@ -260,7 +260,7 @@
           <div class="row mar30-bot"><hr /></div>
           <div class="row mar20-top mar20-bot">
             <h3 class="text-dblue">
-              Breakfast (Mon. August 13th or Tues. August 14th):  <span class="text-orange">$2,000</span>
+              Breakfast (Mon. August 8th or Tues. August 9th):  <span class="text-orange">$2,000</span>
             </h3>
             <ol class="disc">
               <li>Exclusive sponsorship of the breakfast scheduled for 8:00am-9:00am on Mon. August 13th or Tues. August 14th</li>
@@ -270,7 +270,7 @@
           <div class="row mar30-bot"><hr /></div>
           <div class="row mar20-top mar20-bot">
             <h3 class="text-dblue">
-              Morning coffee break (Mon. August 13th or Tues. August 14th): <span class="text-orange">$500</span>
+              Morning coffee break (Mon. August 8th or Tues. August 9th): <span class="text-orange">$500</span>
             </h3>
             <ol class="disc">
               <li>Exclusive sponsorship of coffee break scheduled for 10:45-11:00 am on Mon. August 13th or Tues. August 14th</li>
@@ -283,7 +283,7 @@
               Exhibitor table (2 days): <span class="text-orange">$1,250</span>
             </h3>
             <ol class="disc">
-              <li>3' x 6' clothed table, 2 chairs, Mon. August 13th 8:00 a.m.-5:00 p.m., &Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
+              <li>3' x 6' clothed table, 2 chairs, Mon. August 8th 8:00 a.m.-5:00 p.m., &Tues. August 9th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
             </ol>
           </div>
           <div class="row mar30-bot"><hr /></div>
@@ -292,7 +292,7 @@
               Exhibitor table (1 day): <span class="text-orange">$750</span>
             </h3>
             <ol class="disc">
-              <li>3' x 6' clothed table, 2 chairs, Mon. August 13th 8:00 a.m.-5:00 p.m. or Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
+              <li>3' x 6' clothed table, 2 chairs, Mon. August 8th 8:00 a.m.-5:00 p.m. or Tues. August 9th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
             </ol>
           </div>
           <div class="row mar30-bot"><hr /></div>
@@ -301,7 +301,7 @@
               Exhibitor hightop table (2 days): <span class="text-orange">$500</span>
             </h3>
             <ol class="disc">
-              <li>2' round clothed hightop table, Mon. August 13th 8:00 a.m.-5:00 p.m. & Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
+              <li>2' round clothed hightop table, Mon. August 8th 8:00 a.m.-5:00 p.m. & Tues. August 9th 8:00 a.m.-3:00 p.m., listed in program and on website</li>
             </ol>
           </div>
           <div class="row mar30-bot"><hr /></div>
@@ -310,7 +310,7 @@
               Exhibitor hightop table (1 day): <span class="text-orange">$250</span>
             </h3>
             <ol class="disc">
-              <li>2' round clothed hightop table, Mon. August 13th 8:00 a.m.-5:00 p.m. or Tues. August 14th 8:00 a.m.-3:00 p.m., listed in program and on websites</li>
+              <li>2' round clothed hightop table, Mon. August 8th 8:00 a.m.-5:00 p.m. or Tues. August 9th 8:00 a.m.-3:00 p.m., listed in program and on websites</li>
             </ol>
           </div>
           <div class="row mar30-bot"><hr /></div>
