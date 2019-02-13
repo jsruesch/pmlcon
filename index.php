@@ -70,9 +70,10 @@
         <div class="row pad10-left">
           <h2 class="text-white"><i class="fa fa-bed" aria-hidden="true"></i> Lodging</h2>
           <p class="text-white">
-            Lodging is available through a group rate at the
+            More details coming soon. 
+<!--             Lodging is available through a group rate at the
             <a href="http://bit.ly/playmake14aug" target="_blank" class="text-white">Lowell Center</a> or
-            <a href="http://hamptoninn.hilton.com/en/hp/groups/personalized/M/MSNBJHX-PML-20180812/index.jhtml?WT.mc_id=POG" target="_blank" class="text-white">Hampton Inn</a>.
+            <a href="http://hamptoninn.hilton.com/en/hp/groups/personalized/M/MSNBJHX-PML-20180812/index.jhtml?WT.mc_id=POG" target="_blank" class="text-white">Hampton Inn</a>. -->
           </p>
         </div>
       </div><!-- END: lodging -->
