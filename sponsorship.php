@@ -6,31 +6,9 @@
 -->
   <div class="container-fluid main-content">
     <div class="container">
-      <!-- Header -->
-        <div class="row pad60">
-          <div class="col-sm-6">
-            <img class="center-block main-logo" src="img/logo-2019.png" />
-          </div>
-          <div class="col-sm-6 pad60 mar50-top bg-white">
-            <div class="row text-center">
-              <h2 class="text-mblue">Save the Date!</h2>
-              <h3 class="text-dblue">August 8-9, 2019</h3>
-              <h5 class="text-dblue">Union South, University of Wisconsin Madison</h5>
-<!--             </div>
-            <div class="row mar20-top mar20-bot">
-              <a href="https://registration.eop.education.wisc.edu/index.aspx?id=225" target="_blank" class="button bg-orange text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i> Register Here</a>
-            </div>
-            <div class="row">
-              <p class="text-center text-mblue">2-Day Registration: <span class="text-bold">$150</span></p>
-              <p class="text-center text-mblue">1-Day Registration: <span class="text-bold">$100</span></p>
-            </div> -->
-            <!-- <div class="row mar20-top">
-              <p class="text-dblue text-center">
-                Questions? <a href="mailto:playmakelearninfo@gmail.com" target="_blank">Send us an email!</a> <br />We'd be happy to answer them for you!
-              </p>
-            </div> -->
-          </div>
-        </div><!-- END: Header -->
+    
+    <?php include('header-block.php') ?>
+    
     <!-- Overview -->
       <div class="row mar30-top">
         <div class="col-sm-12 bg-ddblue pad60">
@@ -360,8 +338,4 @@
 <!-- END: Main Content -->
 
 <?php include('footer.php') ?>
-
-<!-- Scroll to Top button -->
-<p id="back-top">
-    <a href="#top"><i class="fa fa-arrow-circle-o-up text-white" aria-hidden="true"></i><span class="nav-button-text"> Back to Top</span></a>
-</p>
+<?php include('scroll-to-top.php') ?>

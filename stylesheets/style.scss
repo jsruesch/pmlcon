@@ -107,13 +107,24 @@
    float: left;
  }
 
+ .col-xs-14,
+ .col-sm-14,
+ .col-md-14,
+ .col-lg-14{
+   width: 14%;
+   float: left;
+ }
+
 .col-5{
   width: 20%;
   float: left;
 }
 
 .text-bold{ font-weight: 900; }
+.text-small{ font-size: 15px; }
 .disc{ list-style: disc; padding-left: 20px; }
+
+
  /* END: Utility Classes */
 
 
@@ -160,6 +171,51 @@
   }
 
   .col-xs-15{ padding: 0 0 0 0;}
+}
+
+.nav-v2{
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  z-index: 999;
+
+  background: #000412;
+
+  i{ @include transition; }
+
+  .navlink{
+    @include full;
+    @include transition;
+    padding: 20px;
+    font-size: 20px;
+    font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-align: center;
+
+    &:hover, &:focus, &:visited{
+      @include transition;
+      text-decoration: none;
+      background: $mblue;
+      color: $white;
+
+      i{
+        @include transition;
+        color: $white;
+      }
+    }
+  }
+
+  .col-xs-15{ padding: 0 0 0 0;}
+
+  /* Hides nav text on mobile viewport sizes */
+  .nav-hide-desktop{ display: none !important; }
+
+  /* Shows nav text on mobile viewport sizes */ 
+  .nav-hide-mobile{ display: visible !important; }
 }
 
 /* END: Navigation */

@@ -61,6 +61,7 @@
 
 /* Bootstrap Overrides */
 .container,
+.col-sm-14,
 .col-sm-12,
 .col-sm-10,
 .col-sm-9,
@@ -72,7 +73,10 @@
 .col-md-3,
 .col-sm-2,
 .col-xs-4,
-.col-xs-3 {
+.col-xs-3,
+.col-xs-2,
+.col-sm-1,
+.col-xs-1 {
   padding-top: 0px !important;
   padding-right: 0px !important;
   padding-bottom: 0px !important;
@@ -417,6 +421,7 @@ h1, h2, h3, h4, h5, p {
 
 /* Bootstrap Overrides */
 .container,
+.col-sm-14,
 .col-sm-12,
 .col-sm-10,
 .col-sm-9,
@@ -428,7 +433,10 @@ h1, h2, h3, h4, h5, p {
 .col-md-3,
 .col-sm-2,
 .col-xs-4,
-.col-xs-3 {
+.col-xs-3,
+.col-xs-2,
+.col-sm-1,
+.col-xs-1 {
   padding-top: 0px !important;
   padding-right: 0px !important;
   padding-bottom: 0px !important;
@@ -713,7 +721,15 @@ h1, h2, h3, h4, h5, p {
 /*-----------------  Desktops  -----------------*/
 @media screen and (max-width: 635px) {
   .nav-button-text {
-    display: none; }
+    display: block; }
+
+  /* Shows nav text on mobile viewport sizes */
+  .nav-hide-desktop {
+    display: block !important; }
+
+  /* Hides nav text on mobile viewport sizes */
+  .nav-hide-mobile {
+    display: none !important; }
 
   .col-5 {
     width: 50% !important; }
@@ -858,12 +874,22 @@ h3 {
   width: 20%;
   float: left; }
 
+.col-xs-14,
+.col-sm-14,
+.col-md-14,
+.col-lg-14 {
+  width: 14%;
+  float: left; }
+
 .col-5 {
   width: 20%;
   float: left; }
 
 .text-bold {
   font-weight: 900; }
+
+.text-small {
+  font-size: 15px; }
 
 .disc {
   list-style: disc;
@@ -918,6 +944,56 @@ h3 {
         color: #ffffff; }
   .nav .col-xs-15 {
     padding: 0 0 0 0; }
+
+.nav-v2 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  position: fixed;
+  z-index: 999;
+  background: #000412;
+  /* Hides nav text on mobile viewport sizes */
+  /* Shows nav text on mobile viewport sizes */ }
+  .nav-v2 i {
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease; }
+  .nav-v2 .navlink {
+    width: 100%;
+    float: left;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    padding: 20px;
+    font-size: 20px;
+    font-family: "proxima-nova-alt-ext-cond",sans-serif !important;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 1px;
+    text-align: center; }
+    .nav-v2 .navlink:hover, .nav-v2 .navlink:focus, .nav-v2 .navlink:visited {
+      -webkit-transition: all 0.2s ease;
+      -moz-transition: all 0.2s ease;
+      -ms-transition: all 0.2s ease;
+      -o-transition: all 0.2s ease;
+      text-decoration: none;
+      background: #236B8F;
+      color: #ffffff; }
+      .nav-v2 .navlink:hover i, .nav-v2 .navlink:focus i, .nav-v2 .navlink:visited i {
+        -webkit-transition: all 0.2s ease;
+        -moz-transition: all 0.2s ease;
+        -ms-transition: all 0.2s ease;
+        -o-transition: all 0.2s ease;
+        color: #ffffff; }
+  .nav-v2 .col-xs-15 {
+    padding: 0 0 0 0; }
+  .nav-v2 .nav-hide-desktop {
+    display: none !important; }
+  .nav-v2 .nav-hide-mobile {
+    display: visible !important; }
 
 /* END: Navigation */
 /**

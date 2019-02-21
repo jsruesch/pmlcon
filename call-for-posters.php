@@ -81,8 +81,4 @@
 <!-- END: Main Content -->
 
 <?php include('footer.php') ?>
-
-<!-- Scroll to Top button -->
-<p id="back-top">
-    <a href="#top"><i class="fa fa-arrow-circle-o-up text-white" aria-hidden="true"></i><span class="nav-button-text"> Back to Top</span></a>
-</p>
+<?php include('scroll-to-top.php') ?>

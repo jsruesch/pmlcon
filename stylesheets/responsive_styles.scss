@@ -9,7 +9,13 @@
 /*-----------------  Desktops  -----------------*/
 @media screen and (max-width:635px){
 
-  .nav-button-text{ display: none; }
+  .nav-button-text{ display: block; }
+
+  /* Shows nav text on mobile viewport sizes */
+  .nav-hide-desktop{ display: block !important; }
+
+  /* Hides nav text on mobile viewport sizes */
+  .nav-hide-mobile{ display: none !important; }
 
   .col-5{
     width: 50% !important;
