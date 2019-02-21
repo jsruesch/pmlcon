@@ -1,5 +1,5 @@
 <?php include('header.php') ?>
-<?php include('navigation.php') ?>
+<?php include('navigation-v2.php') ?>
 
 <!--
   BEGIN: Main Content
