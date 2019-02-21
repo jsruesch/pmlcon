@@ -14,7 +14,7 @@
       <div class="row mar30-top">
         <div class="col-sm-12 bg-ddblue pad60">
           <div class="row mar20-bot">
-            <h2 class="text-orange"><span class="text-white"><i class="fa fa-check-circle-o" aria-hidden="true"></i></span> Conference Registration</h2>
+            <h2 class="text-orange"><span class="text-white"><i class="fa fa-check-circle" aria-hidden="true"></i></span> Conference Registration</h2>
           </div>
           <div class="row mar20-bot bg-owhite pad20">
             <h3 class="text-white">Coming soon! Stay tuned for 2019 registration!</h3>
