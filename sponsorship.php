@@ -16,7 +16,7 @@
             <h2 class="text-orange">Sponsorship Opportunities</h2>
           </div>
           <div class="row mar30-bot">
-            <p class="text-lblue"> Check out our 2018 sponsorship offerings. 2019 details coming soon. For more information, please contact <a href="mailto:playmakelearninfo@gmail.com" target="_blank">playmakelearninfo@gmail.com</a></p>
+            <p class="text-lblue"> Check out our 2019 sponsorship opportunities. For more information, please contact <a href="mailto:playmakelearninfo@gmail.com" target="_blank">playmakelearninfo@gmail.com</a></p>
           </div>
           <!-- Row -->
           <div class="row bg-owhite pad20">
