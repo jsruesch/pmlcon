@@ -17,6 +17,6 @@
     <!-- Submit Paper or Poster Button -->
 <!--     <div class="row mar20-top">
         <a href=" https://docs.google.com/forms/d/e/1FAIpQLSepxNAotK41PRs75lt5BFrOtktDZfkK_WoMz-SZXquc3Nfq3A/viewform" target="_blank" class="button bg-orange text-white">Submit A Paper or Poster</a>
-      </div>
+      </div> -->
   </div>
-</div><!-- END: Header --> -->
+</div><!-- END: Header -->
