@@ -9,7 +9,7 @@
     
     <?php include('header-block.php') ?>
 
-      <!-- Story -->
+<!--       <!-- Story -->
 <!--     <div id="story"></div>
       <div class="row">
         <div class="col-sm-12 bg-ddblue pad60">
@@ -20,7 +20,7 @@
             </p>
           </div>
           <!-- PML Points -->
-          <div class="row">
+<!--           <div class="row">
             <div class="col-sm-4 pad10">
               <div class="row bg-owhite pad20">
                 <h2 class="text-white text-center">Play</h2>
@@ -45,16 +45,16 @@
                 </p>
               </div>
             </div>
-          </div><!-- END: PML Points -->
+          </div><!-- END: PML Points --> -->
         <!-- Focus -->
-        <hr />
+<!--         <hr />
           <div class="row">
             <div class="row pad10">
               <h2 class="text-orange">Conference Focus</h2>
             </div>
             <div class="row">
               <!-- Gaming -->
-              <div class="col-sm-4 pad10">
+<!--               <div class="col-sm-4 pad10">
                 <div class="row bg-owhite pad20">
                   <h2 class="text-white text-center">Gaming</h2>
                   <ul class="disc text-lblue">
@@ -68,9 +68,9 @@
                     <li>Games in Higher Ed</li>
                   </ul>
                 </div>
-              </div><!-- END: Gaming -->
+              </div><!-- END: Gaming --> --> -->
               <!-- Making -->
-              <div class="col-sm-4 pad10">
+<!--               <div class="col-sm-4 pad10">
                 <div class="row bg-owhite pad20">
                   <h2 class="text-white text-center">Making</h2>
                   <ul class="disc text-lblue">
@@ -81,7 +81,7 @@
                 </div>
               </div><!-- END: Making -->
               <!-- Personalized Learning -->
-              <div class="col-sm-4 pad10">
+<!--               <div class="col-sm-4 pad10">
                 <div class="row bg-owhite pad20">
                   <h2 class="text-white text-center">Personalized Learning</h2>
                   <ul class="disc text-lblue">
@@ -91,9 +91,9 @@
                   </ul>
                 </div>
               </div><!-- END: Personalized Learning -->
-            </div><!-- /.row -->
-          </div><!-- END: Focus -->
-          <hr />
+<!--             </div><!-- /.row -->
+<!--           </div>END: Focus --> --> -->
+          <hr /> -->
           <div class="row">
             <h2 class="text-orange mar10-bot">How Play Make Learn came to be</h2>
             <p class="text-large text-lblue">
@@ -108,7 +108,7 @@
             </ul>
           </div>
         </div><!-- /.col-sm-12 -->
-      </div><!-- END: Story --> -->
+      </div><!-- END: Story --> --> -->
     <!-- Sponsors -->
       <div class="row">
         <div class="col-sm-12 bg-white pad60">
