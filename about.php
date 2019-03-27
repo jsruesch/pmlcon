@@ -93,8 +93,8 @@
               </div><!-- END: Personalized Learning -->
 <!--             </div><!-- /.row -->
 <!--           </div>END: Focus --> --> -->
-          <hr /> -->
-          <div class="row">
+<!--           <hr /> -->
+<!--           <div class="row">
             <h2 class="text-orange mar10-bot">How Play Make Learn came to be</h2>
             <p class="text-large text-lblue">
               This conference grew out of partnerships among <strong class="text-white">Games + Learning + Society</strong>, <strong class="text-white">Filament Games</strong>, the <strong class="text-white">Learning Games Network</strong>, the <strong class="text-white">Playful Learning Conference</strong>, the <strong class="text-white">Wisconsin Collaborative Education Research Network</strong> and others who see a need to collaborate around making, playing, and learning in research, industry, and practice.
@@ -106,9 +106,9 @@
               <li>Learning in the Making</li>
               <li>Personalization in Practice</li>
             </ul>
-          </div>
-        </div><!-- /.col-sm-12 -->
-      </div><!-- END: Story --> --> -->
+          </div> -->
+<!--         </div>/.col-sm-12 -->
+<!--       </div>END: Story --> --> --> -->
     <!-- Sponsors -->
       <div class="row">
         <div class="col-sm-12 bg-white pad60">
