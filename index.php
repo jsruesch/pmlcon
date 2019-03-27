@@ -111,7 +111,7 @@
           <div class="row pad10">
             <h2 class="text-orange mar10-bot"><span class="text-white"><i class="fa fa-book" aria-hidden="true"></i></span> Our Story</h2>
             <p class="text-large text-lblue">
-              The Play Make Learn Collective stemmed from the collective interest in creating an innovative conference to promote play and learning research, industry, and practice.
+              The Play Make Learn Conference promotes high-quality learning opportunities for educators, researchers, developers, designers, foundation leaders, policy makers, musuem and library professionals, and school leaders who are dedicated to promoting making, gaming, and playful learning. Play Make Learn provides hands-on workshops that engage the audience in cutting-edge learning science ideas and experience; keynote speakers who have expertise in communicating state-of-the-art design, education, and research; demonstrations of new and upcoming games and technology; and networking opportunities meant to spark new projects.
             </p>
           </div>
           <!-- PML Points -->
@@ -120,7 +120,7 @@
               <div class="row bg-owhite pad20">
                 <h2 class="text-white text-center">Play</h2>
                 <p class="text-lblue">
-                  Exciting new games and game systems will available for playing
+                  Play new games and consoles with your colleagues in the arcade
                 </p>
               </div>
             </div>
@@ -128,7 +128,7 @@
               <div class="row bg-owhite pad20">
                 <h2 class="text-white text-center">Make</h2>
                 <p class="text-lblue">
-                  Maker labs and game jams will parallel the sessions all day
+                  Tinker and mess around with making
                 </p>
               </div>
             </div>
@@ -136,7 +136,7 @@
               <div class="row bg-owhite pad20">
                 <h2 class="text-white text-center">Learn</h2>
                 <p class="text-lblue">
-                  Presentations and discussions around gaming, making, and personalized learning
+                  Enjoy discussions and presentations about making, games, play, and innovative learning and teaching
                 </p>
               </div>
             </div>
@@ -192,7 +192,7 @@
           <div class="row">
             <h2 class="text-orange mar10-bot">How Play Make Learn came to be</h2>
             <p class="text-large text-lblue">
-              This conference grew out of partnerships among <strong class="text-white">Games + Learning + Society</strong>, <strong class="text-white">Filament Games</strong>, the <strong class="text-white">Learning Games Network</strong>, the <strong class="text-white">Playful Learning Conference</strong>, the <strong class="text-white">Wisconsin Collaborative Education Research Network</strong> and others who see a need to collaborate around making, playing, and learning in research, industry, and practice.
+              This conference grew out of partnerships among <strong class="text-white">Games + Learning + Society</strong>, <strong class="text-white">Filament Games</strong>, the <strong class="text-white">Learning Games Network</strong>, the <strong class="text-white">Playful Learning Conference</strong>, the <strong class="text-white">Wisconsin Collaborative Education Research Network</strong>, the <strong class="text-white">Wisconsin Department of Public Instruction</strong>, and others who see a need to collaborate around making, playing, and learning in research, industry, and practice. We are grateful for our collaborative team:
             </p>
             <ul class="disc text-lblue mar10-top">
               <li>Filament Games</li>
@@ -200,6 +200,7 @@
               <li>Gear Learning</li>
               <li>Learning in the Making</li>
               <li>Personalization in Practice</li>
+              <li>Wisconsin Department of Public Instruction</li>
             </ul>
           </div>
         </div><!-- /.col-sm-12 -->
@@ -208,7 +209,7 @@
       <div class="row">
         <div class="col-sm-12 bg-white pad60">
           <div class="row mar20-bot">
-            <h2 class="text-orange mar10-bot"><span class="text-dblue"><i class="fa fa-handshake-o" aria-hidden="true"></i></span> 2018 Sponsors</h2>
+            <h2 class="text-orange mar10-bot"><span class="text-dblue"><i class="fa fa-handshake-o" aria-hidden="true"></i></span> 2019 Sponsors</h2>
             <p class="text-dblue">
               Play Make Learn is proud of its many sponsors including the Wisconsin Department of Public Instruction, Education Outreach and Partnerships, The Network, School Of Education, and Wisconsin Center for Education Research.
             </p>
@@ -222,8 +223,6 @@
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-field-day.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-filament.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-gear-learning.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-bloxels.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-imagine-learning.png" /></div>
             <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-wpt.png" /></div>
           </div>
         </div>
