@@ -10,7 +10,7 @@
     <?php include('header-block.php') ?>
 
       <!-- Story -->
-    <div id="story"></div>
+<!--     <div id="story"></div>
       <div class="row">
         <div class="col-sm-12 bg-ddblue pad60">
           <div class="row pad10">
@@ -108,7 +108,7 @@
             </ul>
           </div>
         </div><!-- /.col-sm-12 -->
-      </div><!-- END: Story -->
+      </div><!-- END: Story --> -->
     <!-- Sponsors -->
       <div class="row">
         <div class="col-sm-12 bg-white pad60">
@@ -123,7 +123,7 @@
             <div class="col-sm-10 pad10">
               <h3 class="text-dblue">Rich Halverson</h3>
               <p class="text-ddblue">
-                Rich Halverson is a Professor in Educational Leadership and Policy Analysis at UW-Madison. He is a former high school teacher and administrator, and earned an MA in Philosophy and a PhD in the Learning Sciences from Northwestern University. He holds affiliate appointments in Educational Psychology and Curriculum and Instruction Departments, and is a Fellow at the Wisconsin Institutes for Discovery. Halverson leads <a href="http://personalizationinpractice.org/#intro" target="_blank">Personalization in Practice</a>, a study documenting how teachers, leaders, and students experience personalized learning in Wisconsin.
+                Rich Halverson is a Professor in Educational Leadership and Policy Analysis and the Associate Dean for Innovation and Partnerships at UW-Madison. He is a former high school teacher and administrator, and earned an MA in Philosophy and a PhD in the Learning Sciences from Northwestern University. He holds affiliate appointments in Educational Psychology and Curriculum and Instruction Departments, and is a Fellow at the Wisconsin Institutes for Discovery. Halverson leads <a href="http://personalizationinpractice.org/#intro" target="_blank">Personalization in Practice</a>, a study documenting how teachers, leaders, and students experience personalized learning in Wisconsin.
               </p>
             </div>
           </div><!-- END: Rich -->
