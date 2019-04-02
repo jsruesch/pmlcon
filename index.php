@@ -215,15 +215,33 @@
             </p>
           </div>
           <div class="row sponsors">
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-the-network.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-wcer.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-soe.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-eop.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-dpi.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-field-day.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-filament.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-gear-learning.png" /></div>
-            <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-wpt.png" /></div>
+            <a href="#" target="_blank">
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-the-network.png" /></div>
+            </a>
+            <a href="https://www.wcer.wisc.edu/" target="_blank">
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-wcer.png" /></div>
+            </a>
+            <a href="https://www.education.wisc.edu/" target="_blank">
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-soe.png" /></div>
+            </a>
+            <a href="https://eop.education.wisc.edu/" target="_blank">
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-eop.png" /></div>
+            </a>
+            <a href="https://dpi.wi.gov/  " target="_blank">
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-dpi.png" /></div>
+            </a>
+            <a href="https://fielddaylab.wisc.edu/" target="_blank">
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-field-day.png" /></div>
+            </a>
+            <a href="http://www.filamentgames.com/" target="_blank">
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-filament.png" /></div>
+            </a>
+            <a href="https://gearlearning.org/" target="_blank">
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-gear-learning.png" /></div>
+            </a>
+            <a href="https://wpt4.org/education/" target="_blank">
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-wpt.png" /></div>
+            </a>
           </div>
         </div>
       </div><!-- END: Sponsors -->

@@ -187,6 +187,54 @@
               </p>
             </div>
           </div><!-- END: Peter -->
+        <!-- Amanda -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-amanda.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Amanda Kelly</h3>
+              <p class="text-ddblue">
+              Amanda Kelly is the Conference Services Operations Manager at the Professional Learning and Community Education (PLACE) office within the UW-Madison School of Education, offering expertise in site selection, vendor relations, registration, event logistics, onsite support, and more! She is an alumna of the UW-Madison SoHE Community & Nonprofit Leadership program and has been in the events industry for over seven years in various capacities.
+              </p>
+            </div>
+          </div><!-- END: Amanda -->
+        <!-- Jessie -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-jessie.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Jessie Nixon</h3>
+              <p class="text-ddblue">
+              Jessie Nixon is a doctoral student at the University of Wisconsin Madison in the department of Curriculum and Instruction with a targeted focus on digital media production. Her research interests include youth digital production processes, digital storytelling, and critique practices. Jessie’s current research explores the role of formal and informal critique practices in video production in formal and informal learning spaces. After receiving her M.A. in English, she joined the English Department and taught freshman composition at the University of Alaska Anchorage. Before graduate school, Jessie taught high school English in Virginia and Alaska.
+              </p>
+            </div>
+          </div><!-- END: Jessie -->
+        <!-- Nathan -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-nathan.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Nathan T. Wheeler</h3>
+              <p class="text-ddblue">
+              Nathan T. Wheeler is currently a PhD student with the top-ranked <a href="https://ci.education.wisc.edu/" target="_blank">Department of Curriculum & Instruction</a> at the University of Wisconsin-Madison's prestigious <a href="https://www.usnews.com/best-graduate-schools/top-education-schools/edu-rankings" target="_blank">School of Education</a> in the area of <a href="https://ci.education.wisc.edu/ci/research/digital-media" target="_blank">Design, Informal and Creative Education</a> (DICE). His research explores 21st century approaches to how people learn with a particular emphasis on the process of artistic production, especially ensemble-based literary adaptation 'from page to stage,' and devising theater as a 'makerspace' activity. In addition to interests in Learning Science and Interdisciplinary Theatre Studies, other scholarly pursuits include: collaboration; innovation; creativity; informal learning; instructional design; technology; human development and public intellectualism. 
+              </p>
+            </div>
+          </div><!-- END: Nathan -->
+        <!-- David -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-david-02.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">David McHugh</h3>
+              <p class="text-ddblue">
+              As DPI’s Games & Interactive Media Liaison, David is the point person for play/make/learn topics at the state level.  Also part of the DPI’s Literacy & Mathematics team, David provides strategic planning for projects such as revising the state’s academic standards, running Wisconsin’s online library, and statewide OER initiatives.  He has a background in ed-tech, including an MA in Library & Information Studies, and is working towards his PhD from UW-Madison on the design of interactive learning experiences (especially games).
+              </p>
+            </div>
+          </div><!-- END: David -->
 <!--         <!-- Rich -->
 <!--           <div class="row mar10-top">
             <div class="col-sm-2 pad10">
