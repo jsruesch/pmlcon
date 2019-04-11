@@ -66,11 +66,31 @@
     <div id="keynote"></div>
       <div class="row bg-white pad60">
         <div class="row pad10-left pad30-bot">
-          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle" aria-hidden="true"></i></span> Stay tuned for 2019 Keynote Presentations</h2>
+          <h2 class="text-orange"><span class="text-dblue"><i class="fa fa-user-circle" aria-hidden="true"></i></span> Keynote Speakers</h2>
         </div>
 <!-- Details about 2018 keynotes commented out for reference when writing 2019 keynote descriptions.-->
-<!--       <!-- Emery Petchauer -->
-<!--         <div class="row">
+      <!-- Kylie Peppler -->
+        <div class="row mar30-bot">
+          <div class="col-sm-4">
+            <div class="row pad10">
+              <img class="full" src="img/portraits/portrait-kylie-peppler.png" />
+            </div>
+          </div>
+          <div class="col-sm-8">
+            <div class="row pad10">
+              <h3 class="text-dblue">Kylie Peppler</h3>
+              <hr />
+              <p class="text-dblue">
+                An artist by training, Dr. Peppler is an Associate Professor of Informatics and Education at UC Irvine and engages in research that focuses on the intersection of arts, computational technologies and interest-driven learning. In addition to serving as the Director of the Creativity Labs, Dr. Peppler is the Chief Learning Officer at Collective Shift/LRNG, the former lead of the MacArthur Foundation’s Make-to-Learn initiative, and a member of the 2016 and 2017 National Educational Technology Plan Committee, sponsored by the U.S. Department of Education. Peppler was on the original NSF-sponsored Scratch team during the initial design and early study of the Scratch platform. Since this time, she has specialized in studying e-textile design with the LilyPad Arduino.
+                <br>
+                <br>
+                Dr. Peppler is the recipient of several recent awards, including Mira Tech Educator of the Year and an NSF Early CAREER recipient, as well as grants from the Spencer Foundation, Moore Foundation, and MacArthur Foundation, among others. Through this support, she has authored over 100 peer-reviewed publications, including the authoring or editing of more than 11 book publications. The most recent volumes include the <i>Makeology</i> series as well as the <i>The SAGE Encyclopedia of Out-of-School Learning</i>. Her current scholarly interests include theorizing how changing the tools and materials in today's learning environments can help broaden participation in STEM, particularly among women and other minoritized populations, as well as improve overall learning outcomes.
+              </p>
+            </div>
+          </div>
+        </div><!-- END: Kylie Peppler -->
+      <!-- Emery Petchauer 
+        <div class="row mar30-bot">
           <div class="col-sm-4">
             <div class="row pad10">
               <img class="full" src="img/portraits/portrait-emery-petchauer.png" />
@@ -85,7 +105,7 @@
               </p>
             </div>
           </div>
-        </div><!-- END: Emery Petchauer -->
+        </div>END: Emery Petchauer -->
       <!-- Jane Werner -->
 <!--         <div class="row">
           <div class="col-sm-4">

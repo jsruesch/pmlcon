@@ -14,7 +14,7 @@
         <!-- Register -->
         <div class="col-sm-2 col-xs-14">
           <div class="row bg-orange">
-            <a href="registration-coming-soon.php" target="_blank" class="navlink text-white">
+            <a href="https://registration.eop.education.wisc.edu/index.aspx?id=378" target="_blank" class="navlink text-white">
               <span class="text-white"><i class="fas fa-check-circle" aria-hidden="true"></i></span>
               <span class="nav-hide-mobile">Register</span>
             </a>

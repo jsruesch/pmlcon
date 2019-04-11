@@ -14,8 +14,12 @@
         Questions? <a href="mailto:playmakelearninfo@gmail.com" target="_blank">Send us an email!</a> <br />We'd be happy to answer them for you!
       </p>
     </div> -->
-    <!-- Submit Paper or Poster Button -->
-<!--     <div class="row mar20-top">
+    <!-- Register Button -->
+    <div class="row mar20-top">
+        <a href="https://registration.eop.education.wisc.edu/index.aspx?id=378" target="_blank" class="button bg-orange text-white">Register Here!</a>
+      </div> 
+    <!-- Submit Paper or Poster Button 
+    <div class="row mar20-top">
         <a href=" https://docs.google.com/forms/d/e/1FAIpQLSepxNAotK41PRs75lt5BFrOtktDZfkK_WoMz-SZXquc3Nfq3A/viewform" target="_blank" class="button bg-orange text-white">Submit A Paper or Poster</a>
       </div> -->
   </div>

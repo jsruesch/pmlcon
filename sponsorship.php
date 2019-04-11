@@ -9,6 +9,10 @@
     
     <?php include('header-block.php') ?>
     
+    <div class="row mar60-bot">
+      <h3 class="text-white text-bold text-center">Registration for exhibiting / sponsoring is now open! <br><a href="https://registration.eop.education.wisc.edu/index.aspx?id=378" target="_blank" class="text-orange">Click here to secure your sponsorship!</a></h3>
+    </div>
+
     <!-- Overview -->
       <div class="row mar30-top">
         <div class="col-sm-12 bg-ddblue pad60">
