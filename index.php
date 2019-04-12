@@ -107,6 +107,23 @@
             </div>
           </div>
         </div><!-- END: Kylie Peppler -->
+      <!-- Winnie Karanja -->
+        <div class="row mar30-bot">
+          <div class="col-sm-4">
+            <div class="row pad10">
+              <img class="full" src="img/portraits/portrait-winnie-karanja.png" />
+            </div>
+          </div>
+          <div class="col-sm-8">
+            <div class="row pad10">
+              <h3 class="text-dblue">Winnie Karanja</h3>
+              <hr />
+              <p class="text-dblue">
+                Winnie Karanja is the Founder and Executive Director of <a href="https://maydm.org/" target="_blank">Maydm</a>, an organization that equips girls and students of color with the technical skills and experiences to pursue opportunities in STEM. With her background in education and technology, Winnie is devoted to improving her community through STEM learning. Maydm hosts classes, workshops, and events with the goal of empowering students to follow their dreams. Winnie's new initiative, <a href="https://www.pioneerpossibilities.com/" target="_blank">Pioneer Possibilities</a>, brings learning to families' doorsteps, providing elementary aged students with packaged interactive learning experiences to build a foundation for STEM learning.
+              </p>
+            </div>
+          </div>
+        </div><!-- END: Winnie Karanja -->
       <!-- Emery Petchauer 
         <div class="row mar30-bot">
           <div class="col-sm-4">
