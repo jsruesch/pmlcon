@@ -9,6 +9,12 @@
 
     <?php include('header-block.php') ?>
     
+    <!-- Image Block -->
+      <div class="row">
+        <img class="full" src="img/conference-images/pml-img-04.png"/>
+      </div>
+    <!-- END: Image Block -->
+
     <!-- Call for Posters -->
       <div class="row">
         <div class="col-sm-6">
@@ -50,6 +56,18 @@
           </div>
         </div>
       </div><!-- END: Overview -->
+
+    <!-- Image Block -->
+    <div class="row">
+      <div class="col-sm-6">
+        <img class="full" src="img/conference-images/pml-img-01.png"/>
+      </div>
+      <div class="col-sm-6">
+        <img class="full" src="img/conference-images/pml-img-02.png"/>
+      </div>
+    </div>
+    <!-- END: Image Block -->
+
     <!-- Lodging -->
       <div id="lodging" class="row bg-orange pad60">
         <div class="row pad10-left">
@@ -127,6 +145,13 @@
     <!-- Story -->
     <div id="story"></div>
       <div class="row">
+
+        <!-- Image Block -->
+          <div class="row">
+            <img class="full" src="img/conference-images/pml-img-03.png"/>
+          </div>
+        <!-- END: Image Block -->
+
         <div class="col-sm-12 bg-ddblue pad60">
           <div class="row pad10">
             <h2 class="text-orange mar10-bot"><span class="text-white"><i class="fa fa-book" aria-hidden="true"></i></span> Our Story</h2>
