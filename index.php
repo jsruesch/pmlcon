@@ -72,6 +72,7 @@
       <div id="lodging" class="row bg-orange pad60">
         <div class="row pad10-left">
           <h2 class="text-white"><i class="fa fa-bed" aria-hidden="true"></i> Lodging</h2>
+          <p class="text-white">A select number of rooms have been reserved at the following hotels. The group rates are valid until the cutoff dates listed or until all rooms have been booked, whichever comes first. We recommend securing your travel after registering for the conference, as August is a busy time in Madison.</p>
           <div class="row bg-ddblue mar30-top">
           <!-- Madison Concourse -->
             <div class="col-sm-6">
