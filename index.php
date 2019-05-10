@@ -318,7 +318,7 @@
               <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-soe.png" /></div>
             </a>
             <a href="https://eop.education.wisc.edu/" target="_blank">
-              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-eop.png" /></div>
+              <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-place.png" /></div>
             </a>
             <a href="https://dpi.wi.gov/  " target="_blank">
               <div class="col-sm-4 pad20"><img class="center-block" src="img/sponsor-logos/sponsor-logo-dpi.png" /></div>
