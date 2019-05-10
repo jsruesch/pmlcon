@@ -4,7 +4,7 @@
 
     <title>Play Make Learn 2019</title>
     <meta name="description"
-          content="">
+          content="The Play Make Learn Conference promotes high-quality learning opportunities for educators, researchers, developers, designers, foundation leaders, policy makers, musuem and library professionals, and school leaders who are dedicated to promoting making, gaming, and playful learning. Play Make Learn provides hands-on workshops that engage the audience in cutting-edge learning science ideas and experience; keynote speakers who have expertise in communicating state-of-the-art design, education, and research; demonstrations of new and upcoming games and technology; and networking opportunities meant to spark new projects.">
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Main Stylesheet -->

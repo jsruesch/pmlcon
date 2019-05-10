@@ -72,12 +72,43 @@
       <div id="lodging" class="row bg-orange pad60">
         <div class="row pad10-left">
           <h2 class="text-white"><i class="fa fa-bed" aria-hidden="true"></i> Lodging</h2>
-          <p class="text-white">
-            More details coming soon. 
-<!--             Lodging is available through a group rate at the
-            <a href="http://bit.ly/playmake14aug" target="_blank" class="text-white">Lowell Center</a> or
-            <a href="http://hamptoninn.hilton.com/en/hp/groups/personalized/M/MSNBJHX-PML-20180812/index.jhtml?WT.mc_id=POG" target="_blank" class="text-white">Hampton Inn</a>. -->
-          </p>
+          <div class="row bg-ddblue mar30-top">
+          <!-- Madison Concourse -->
+            <div class="col-sm-6">
+              <div class="row">
+                <img class="full" src="img/lodging/lodging-image-madison-concourse-01.png"/>
+              </div>
+              <div class="row pad30">
+                <h3><a href="https://www.concoursehotel.com/" target="_blank" class="text-white">Madison Concourse Hotel and Governor’s Club</a></h3>
+                <hr>
+                <ul class="disc text-lblue">
+                  <li>1 W Dayton St, Madison, WI 53703</li>
+                  <li>800-356-8293</li>
+                  <li>Group rate: <span class="text-white text-bold">$159/night</span></li>
+                  <li><a href="https://reservations.travelclick.com/6388?groupID=2541042#/guestsandrooms" target="_blank">Click here to make your reservation</a> (no code needed)</li>
+                  <li>Cutoff date: July 11, 2019</li>
+                </ul>
+              </div>
+            </div><!-- END: Madison Concourse -->
+          <!-- Union South Hotel -->
+            <div class="col-sm-6">
+              <div class="row">
+                <img class="full" src="img/lodging/lodging-image-union-hotel-01.png"/>
+              </div>
+              <div class="row pad30">
+                <h3><a href="https://union.wisc.edu/visit/stay-at-the-union/hotel-at-union-south/" target="_blank" class="text-white">Union South Hotel</a></h3>
+                <hr>
+                <ul class="disc text-lblue">
+                  <li>1308 W Dayton St, Madison, WI 53715</li>
+                  <li>608-263-2600</li>
+                  <li>Group rate: <span class="text-white text-bold">$160/night</span></li>
+                  <li><a href="https://union.wisc.edu/visit/stay-at-the-union/" target="_blank">Click here to make your reservation</a> using code <spna class="text-white text-bold">PLAYMAKE19</span></li>
+                  <li>Cutoff date: July 7, 2019</li>
+                </ul>
+              </div>
+            </div><!-- END: Union South Hotel -->
+
+          </div>
         </div>
       </div><!-- END: lodging -->
     <!-- Keynotes -->
