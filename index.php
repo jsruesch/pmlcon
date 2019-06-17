@@ -46,7 +46,7 @@
             <h2 class="text-orange"><span class="text-white"><i class="fa fa-calendar" aria-hidden="true"></i></span> Conference Agenda Overview</h2>
           </div>
           <div class="row mar20-bot bg-owhite pad20">
-            <h3 class="text-white">Stay tuned for 2019 details</h3>
+            <h3 class="text-white"><a href="https://playmakelearn2019.sched.com/" target="_blank">2019 Schedule is now live!</a></h3>
 <!-- 2018 details commented out for reference when writing 2019 details. -->
 <!--             <p>
               <span class="text-lblue">We are excited to present the </span>

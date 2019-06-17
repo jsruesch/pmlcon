@@ -25,7 +25,7 @@
         <!-- About -->
         <div class="col-sm-2 col-xs-2">
           <div class="row">
-            <a href="https://docs.google.com/spreadsheets/d/1Rp0RGNEQ7Qd7T46wZCWCNSWP1PRqxeMHbgDmc8nmUvM/edit#gid=0" class="navlink text-white">
+            <a href="https://playmakelearn2019.sched.com/" class="navlink text-white">
               <span class="text-orange"><i class="fa fa-calendar" aria-hidden="true"></i></span>
               <span class="nav-hide-mobile"> Schedule</span>
             </a>
