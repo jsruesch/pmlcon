@@ -6,17 +6,27 @@
         <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="/" class="navlink text-white">
-              <span class="text-orange"><i class="fa fa-home" aria-hidden="true"></i></span>
+              <span class="text-orange"><i class="fa fa-home text-orange" aria-hidden="true"></i></span>
               <span class="nav-hide-mobile">Home</span>
             </a>
           </div>
         </div>
-        <!-- Register -->
+        <!-- Register 
         <div class="col-sm-2 col-xs-2">
           <div class="row bg-orange">
             <a href="https://registration.eop.education.wisc.edu/index.aspx?id=378" target="_blank" class="navlink text-white">
               <span class="text-white"><i class="fas fa-check-circle" aria-hidden="true"></i></span>
               <span class="nav-hide-mobile">Register</span>
+            </a>
+          </div>
+        </div>-->
+
+        <!-- Submit a Session -->
+        <div class="col-sm-2 col-xs-2">
+          <div class="row bg-orange">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScOsw_Kzhw57XHmD4bVQi6nNiphlBoI_GhfCRuMbtRRPPcIpA/viewform?usp=sf_link" target="_blank" class="navlink text-white">
+              <span class="text-white"><i class="fas fa-check-circle" aria-hidden="true"></i></span>
+              <span class="nav-hide-mobile">Submit a Session</span>
             </a>
           </div>
         </div>
@@ -35,7 +45,7 @@
         <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="about.php" class="navlink text-white">
-              <span class="text-orange"><i class="fa fa-book" aria-hidden="true"></i></span>
+              <span class="text-orange"><i class="fa fa-book text-orange" aria-hidden="true"></i></span>
               <span class="nav-hide-mobile"> About</span>
             </a>
           </div>
