@@ -6,7 +6,7 @@
   <div class="col-sm-6 pad60 mar50-top bg-white">
     <div class="row text-center">
       <h2 class="text-mblue">Save the Date!</h2>
-      <h3 class="text-dblue">August 13-14, 2002</h3>
+      <h3 class="text-dblue">August 13-14, 2020</h3>
       <h5 class="text-dblue">Union South, University of Wisconsin Madison</h5>
     </div>
     <!-- <div class="row mar20-top">
