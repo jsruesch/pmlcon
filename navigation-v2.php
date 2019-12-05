@@ -26,7 +26,7 @@
         <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="https://playmakelearn2019.sched.com/" class="navlink text-white" target="_blank">
-              <span class="text-orange"><i class="fa fa-calendar" aria-hidden="true"></i></span>
+              <span class="text-orange"><i class="fa fa-calendar text-orange" aria-hidden="true"></i></span>
               <span class="nav-hide-mobile"> Schedule</span>
             </a>
           </div>
@@ -44,7 +44,7 @@
         <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="/#lodging" class="navlink text-white">
-              <span class="text-orange"><i class="fa fa-bed" aria-hidden="true"></i></span>
+              <span class="text-orange"><i class="fa fa-bed text-orange" aria-hidden="true"></i></span>
               <span class="nav-hide-mobile">Lodging</span>
             </a>
           </div>
@@ -53,7 +53,7 @@
         <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="/#keynote" class="navlink text-white">
-              <span class="text-white"><i class="fa fa-user-circle" aria-hidden="true"></i></span>
+              <span class="text-white"><i class="fa fa-user-circle text-orange" aria-hidden="true"></i></span>
               <span class="nav-hide-mobile">Keynotes</span>
             </a>
           </div>
@@ -74,7 +74,7 @@
   <div class="container-fluid bg-dblue pad5">
     <div class="container">
       <div class="row">
-        <p class="text-white text-center"><span class="text-lblue">Spread the word on social media using the hashtag</span><a href="https://twitter.com/Play_Make_Learn" target="_blank" class="text-white"> #pml2019 <span class=""><u><i class="fab fa-twitter text-orange" aria-hidden="true"></u></i></span></a></p>
+        <p class="text-white text-center"><span class="text-lblue">Spread the word on social media using the hashtag</span><a href="https://twitter.com/Play_Make_Learn" target="_blank" class="text-white"> #pml2020 <span class=""><u><i class="fab fa-twitter text-orange" aria-hidden="true"></u></i></span></a></p>
       </div>
     </div>
   </div>
