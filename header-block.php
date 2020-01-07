@@ -14,10 +14,11 @@
         Questions? <a href="mailto:playmakelearninfo@gmail.com" target="_blank">Send us an email!</a> <br />We'd be happy to answer them for you!
       </p>
     </div> -->
-    <!-- Register Button 
+    <!-- Register Button  -->
     <div class="row mar20-top">
-        <a href="" target="" class="button bg-orange text-white">Register Here!</a>
-      </div> -->
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScOsw_Kzhw57XHmD4bVQi6nNiphlBoI_GhfCRuMbtRRPPcIpA/viewform?usp=sf_link" target="_blank" class="button bg-orange text-white mar10-bot">Submit a Session</a>
+        <div class="row"><p class="text-center">  All submissions must be in by<br /> <b>January 10, 2020</b>.</p></div>
+      </div>
     <!-- Submit Paper or Poster Button 
     <div class="row mar20-top">
         <a href=" https://docs.google.com/forms/d/e/1FAIpQLSepxNAotK41PRs75lt5BFrOtktDZfkK_WoMz-SZXquc3Nfq3A/viewform" target="_blank" class="button bg-orange text-white">Submit A Paper or Poster</a>
