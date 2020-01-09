@@ -98,7 +98,7 @@
           <div class="row pad10">
             <h2 class="text-orange mar10-bot"><span class="text-white"><i class="fa fa-book" aria-hidden="true"></i></span> Our Story</h2>
             <p class="text-large text-lblue">
-              The Play Make Learn Conference promotes high-quality learning opportunities for educators, researchers, developers, designers, foundation leaders, policy makers, musuem and library professionals, and school leaders who are dedicated to promoting making, gaming, and playful learning. Play Make Learn provides hands-on workshops that engage the audience in cutting-edge learning science ideas and experience; keynote speakers who have expertise in communicating state-of-the-art design, education, and research; demonstrations of new and upcoming games and technology; and networking opportunities meant to spark new projects.
+              The Play Make Learn Conference promotes high-quality learning opportunities for educators, researchers, developers, designers, foundation leaders, policy makers, museum and library professionals, and school leaders who are dedicated to promoting making, gaming, and playful learning. Play Make Learn provides hands-on workshops that engage the audience in cutting-edge learning science ideas and experience; keynote speakers who have expertise in communicating state-of-the-art design, education, and research; demonstrations of new and upcoming games and technology; and networking opportunities meant to spark new projects.
             </p>
           </div>
           <!-- PML Points -->
