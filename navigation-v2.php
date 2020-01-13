@@ -3,7 +3,7 @@
     <!-- Nav Buttons -->
       <div class="row">
         <!-- Home -->
-        <div class="col-sm-2 col-xs-2">
+        <div class="col-sm-15 col-xs-15">
           <div class="row">
             <a href="/" class="navlink text-white">
               <span class="text-orange"><i class="fa fa-home text-orange" aria-hidden="true"></i></span>
@@ -21,7 +21,7 @@
           </div>
         </div>-->
 
-        <!-- Submit a Session -->
+        <!-- Submit a Session
         <div class="col-sm-2 col-xs-2">
           <div class="row bg-orange">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLScOsw_Kzhw57XHmD4bVQi6nNiphlBoI_GhfCRuMbtRRPPcIpA/viewform?usp=sf_link" target="_blank" class="navlink text-white">
@@ -29,11 +29,11 @@
               <span class="nav-hide-mobile">Submit a Session</span>
             </a>
           </div>
-        </div>
+        </div> -->
 
 
         <!-- About -->
-        <div class="col-sm-2 col-xs-2">
+        <div class="col-sm-15 col-xs-15">
           <div class="row">
             <a href="https://playmakelearn2019.sched.com/" class="navlink text-white" target="_blank">
               <span class="text-orange"><i class="fa fa-calendar text-orange" aria-hidden="true"></i></span>
@@ -42,7 +42,7 @@
           </div>
         </div>
         <!-- About -->
-        <div class="col-sm-2 col-xs-2">
+        <div class="col-sm-15 col-xs-15">
           <div class="row">
             <a href="about.php" class="navlink text-white">
               <span class="text-orange"><i class="fa fa-book text-orange" aria-hidden="true"></i></span>
@@ -51,7 +51,7 @@
           </div>
         </div>
         <!-- Lodging -->
-        <div class="col-sm-2 col-xs-2">
+        <div class="col-sm-15 col-xs-15">
           <div class="row">
             <a href="/#lodging" class="navlink text-white">
               <span class="text-orange"><i class="fa fa-bed text-orange" aria-hidden="true"></i></span>
@@ -60,7 +60,7 @@
           </div>
         </div>
         <!-- Keynotes -->
-        <div class="col-sm-2 col-xs-2">
+        <div class="col-sm-15 col-xs-15>
           <div class="row">
             <a href="/#keynote" class="navlink text-white">
               <span class="text-white"><i class="fa fa-user-circle text-orange" aria-hidden="true"></i></span>
@@ -70,6 +70,14 @@
         </div>
       </div>
       <!-- END: Nav Buttons -->
+
+      <div class="container-fluid bg-dblue pad5">
+    <div class="container">
+      <div class="row">
+        <p class="text-white text-center"><span class="text-lblue">Spread the word on social media using the hashtag</span><a href="https://twitter.com/Play_Make_Learn" target="_blank" class="text-white"> #pml2020 <span class=""><u><i class="fab fa-twitter text-orange" aria-hidden="true"></u></i></span></a></p>
+      </div>
+    </div>
+  </div>
   </div>
 
   <!-- Previous Conferences 
@@ -81,13 +89,7 @@
     </div>
   </div>-->
 
-  <div class="container-fluid bg-dblue pad5">
-    <div class="container">
-      <div class="row">
-        <p class="text-white text-center"><span class="text-lblue">Spread the word on social media using the hashtag</span><a href="https://twitter.com/Play_Make_Learn" target="_blank" class="text-white"> #pml2020 <span class=""><u><i class="fab fa-twitter text-orange" aria-hidden="true"></u></i></span></a></p>
-      </div>
-    </div>
-  </div>
+  
 
 </div>
 
