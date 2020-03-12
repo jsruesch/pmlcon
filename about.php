@@ -163,18 +163,6 @@
               </p>
             </div>
           </div><!-- END: Rich -->
-        <!-- Rich -->
-          <div class="row mar10-top">
-            <div class="col-sm-2 pad10">
-              <img class="full mar20-bot" src="img/portraits/portrait-dan.png" />
-            </div>
-            <div class="col-sm-10 pad10">
-              <h3 class="text-dblue">Dan Norton</h3>
-              <p class="text-ddblue">
-                Dan Norton is a founding partner and CCO at Filament Games. He specializes in crafting educational game design documents and storyboards that originate from learning objectives. Dan sees Filament as an opportunity to merge his life long love of games with his incessant quest to learn about new and interesting things. Filament games creates educational games meant to engage, inspire, and motivate. They have created over 100 digital learning games in the past 10 years.
-              </p>
-            </div>
-          </div><!-- END: Rich -->
         <!-- Peter -->
           <div class="row mar10-top">
             <div class="col-sm-2 pad10">
@@ -199,30 +187,6 @@
               </p>
             </div>
           </div><!-- END: Amanda -->
-        <!-- Jessie -->
-          <div class="row mar10-top">
-            <div class="col-sm-2 pad10">
-              <img class="full mar20-bot" src="img/portraits/portrait-jessie.png" />
-            </div>
-            <div class="col-sm-10 pad10">
-              <h3 class="text-dblue">Jessie Nixon</h3>
-              <p class="text-ddblue">
-              Jessie Nixon is a doctoral student at the University of Wisconsin Madison in the department of Curriculum and Instruction with a targeted focus on digital media production. Her research interests include youth digital production processes, digital storytelling, and critique practices. Jessie’s current research explores the role of formal and informal critique practices in video production in formal and informal learning spaces. After receiving her M.A. in English, she joined the English Department and taught freshman composition at the University of Alaska Anchorage. Before graduate school, Jessie taught high school English in Virginia and Alaska.
-              </p>
-            </div>
-          </div><!-- END: Jessie -->
-        <!-- Nathan -->
-          <div class="row mar10-top">
-            <div class="col-sm-2 pad10">
-              <img class="full mar20-bot" src="img/portraits/portrait-nathan.png" />
-            </div>
-            <div class="col-sm-10 pad10">
-              <h3 class="text-dblue">Nathan T. Wheeler</h3>
-              <p class="text-ddblue">
-              Nathan T. Wheeler is currently a PhD student with the top-ranked <a href="https://ci.education.wisc.edu/" target="_blank">Department of Curriculum & Instruction</a> at the University of Wisconsin-Madison's prestigious <a href="https://www.usnews.com/best-graduate-schools/top-education-schools/edu-rankings" target="_blank">School of Education</a> in the area of <a href="https://ci.education.wisc.edu/ci/research/digital-media" target="_blank">Design, Informal and Creative Education</a> (DICE). His research explores 21st century approaches to how people learn with a particular emphasis on the process of artistic production, especially ensemble-based literary adaptation 'from page to stage,' and devising theater as a 'makerspace' activity. In addition to interests in Learning Science and Interdisciplinary Theatre Studies, other scholarly pursuits include: collaboration; innovation; creativity; informal learning; instructional design; technology; human development and public intellectualism. 
-              </p>
-            </div>
-          </div><!-- END: Nathan -->
         <!-- David -->
           <div class="row mar10-top">
             <div class="col-sm-2 pad10">
@@ -234,7 +198,43 @@
               As DPI’s Games & Interactive Media Liaison, David is the point person for play/make/learn topics at the state level.  Also part of the DPI’s Literacy & Mathematics team, David provides strategic planning for projects such as revising the state’s academic standards, running Wisconsin’s online library, and statewide OER initiatives.  He has a background in ed-tech, including an MA in Library & Information Studies, and is working towards his PhD from UW-Madison on the design of interactive learning experiences (especially games).
               </p>
             </div>
-          </div><!-- END: David -->
+            </div>
+        <!-- Jerry -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-gerald.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Gerald Dryer</h3>
+              <p class="text-ddblue">
+              Gerald Dryer is a PhD student in Educational Leadership and Policy Analysis at the University of Wisconsin Madison.  His research explores the relationship between social justice and practices of personalization in schools.  His 25 year career as an educator includes classroom practice as an ELA teacher, school technology leader and wilderness trip guide.
+              </p>
+            </div>
+          </div><!-- END: Jerry -->
+        <!-- Yorel -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-yorel.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Yorel Lashley</h3>
+              <p class="text-ddblue">
+              Yorel Lashley is the Director of Arts in the Office of Professional Learning and Community Education. He is a developmental psychologist interested in self-efficacy and social-emotional learning in arts, academic and integrated environments as well as a professional musician and Founder/Director of Drum Power. He also serves on the Madison Arts Commission. His work at PLACE leverages University of Wisconsin-Madison’s arts expertise and rich history from all ten departments in the School of Education to enrich broader communities. 
+              </p>
+            </div>
+          </div><!-- END: Yorel -->
+        <!-- Bridget -->
+          <div class="row mar10-top">
+            <div class="col-sm-2 pad10">
+              <img class="full mar20-bot" src="img/portraits/portrait-bridget.png" />
+            </div>
+            <div class="col-sm-10 pad10">
+              <h3 class="text-dblue">Bridget MccMahon</h3>
+              <p class="text-ddblue">
+              Bridget McMahon is currently the Conference & Event Services Coordinator at PLACE. Bridget is a UW-Madison alumna (History with Honors, Certificates in European Studies and Classics) and holds an M.A. in Museum & Artefact Studies from Durham University (UK). Bridget was previously the Operations Manager in European Studies at UW-Madison and did outreach, events, and grant management. She has worked in art museums and historical societies and has worked extensively with K-12 groups to develop classroom activities in Wisconsin and England, along with some substitute teacher duty here in the region.
+              </p>
+            </div>
+          </div><!-- END: Bridget -->
 <!--         <!-- Rich -->
 <!--           <div class="row mar10-top">
             <div class="col-sm-2 pad10">
@@ -247,7 +247,7 @@
               </p>
             </div>
           </div><!-- END: Rich -->
-        </div>
+        
       </div><!-- END: Sponsors -->
     
     </div><!-- /.container -->

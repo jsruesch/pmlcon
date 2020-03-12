@@ -2,9 +2,18 @@
 <html lang="en">
 <head>
 
-    <title>Play Make Learn 2020</title>
-    <meta name="description"
-          content="The Play Make Learn Conference promotes high-quality learning opportunities for educators, researchers, developers, designers, foundation leaders, policy makers, musuem and library professionals, and school leaders who are dedicated to promoting making, gaming, and playful learning. Play Make Learn provides hands-on workshops that engage the audience in cutting-edge learning science ideas and experience; keynote speakers who have expertise in communicating state-of-the-art design, education, and research; demonstrations of new and upcoming games and technology; and networking opportunities meant to spark new projects.">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149069896-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-149069896-1');
+  </script>
+
+  <title>Play Make Learn 2020</title>
+  <meta name="description"
+        content="The Play Make Learn Conference promotes high-quality learning opportunities for educators, researchers, developers, designers, foundation leaders, policy makers, musuem and library professionals, and school leaders who are dedicated to promoting making, gaming, and playful learning. Play Make Learn provides hands-on workshops that engage the audience in cutting-edge learning science ideas and experience; keynote speakers who have expertise in communicating state-of-the-art design, education, and research; demonstrations of new and upcoming games and technology; and networking opportunities meant to spark new projects.">
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!-- Main Stylesheet -->
@@ -68,7 +77,22 @@
           });
       });
     </script>
+
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-KVM59JX');</script>
+  <!-- End Google Tag Manager -->
+
 </head>
 
 <body id="top">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVM59JX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
 <div class="geopattern"></div>

@@ -3,7 +3,7 @@
     <!-- Nav Buttons -->
       <div class="row">
         <!-- Home -->
-        <div class="col-sm-15 col-xs-15">
+        <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="/" class="navlink text-white">
               <span class="text-orange"><i class="fa fa-home text-orange" aria-hidden="true"></i></span>
@@ -11,15 +11,15 @@
             </a>
           </div>
         </div>
-        <!-- Register 
+        <!-- Register -->
         <div class="col-sm-2 col-xs-2">
           <div class="row bg-orange">
             <a href="https://registration.eop.education.wisc.edu/index.aspx?id=378" target="_blank" class="navlink text-white">
               <span class="text-white"><i class="fas fa-check-circle" aria-hidden="true"></i></span>
-              <span class="nav-hide-mobile">Register</span>
+              <span class="nav-hide-mobile">Register Soon</span>
             </a>
           </div>
-        </div>-->
+        </div>
 
         <!-- Submit a Session
         <div class="col-sm-2 col-xs-2">
@@ -33,7 +33,7 @@
 
 
         <!-- About -->
-        <div class="col-sm-15 col-xs-15">
+        <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="https://playmakelearn2019.sched.com/" class="navlink text-white" target="_blank">
               <span class="text-orange"><i class="fa fa-calendar text-orange" aria-hidden="true"></i></span>
@@ -42,7 +42,7 @@
           </div>
         </div>
         <!-- About -->
-        <div class="col-sm-15 col-xs-15">
+        <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="about.php" class="navlink text-white">
               <span class="text-orange"><i class="fa fa-book text-orange" aria-hidden="true"></i></span>
@@ -51,7 +51,7 @@
           </div>
         </div>
         <!-- Lodging -->
-        <div class="col-sm-15 col-xs-15">
+        <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="/#lodging" class="navlink text-white">
               <span class="text-orange"><i class="fa fa-bed text-orange" aria-hidden="true"></i></span>
@@ -60,7 +60,7 @@
           </div>
         </div>
         <!-- Keynotes -->
-        <div class="col-sm-15 col-xs-15>
+        <div class="col-sm-2 col-xs-2">
           <div class="row">
             <a href="/#keynote" class="navlink text-white">
               <span class="text-white"><i class="fa fa-user-circle text-orange" aria-hidden="true"></i></span>
@@ -70,15 +70,15 @@
         </div>
       </div>
       <!-- END: Nav Buttons -->
-
-      <div class="container-fluid bg-dblue pad5">
-    <div class="container">
-      <div class="row">
-        <p class="text-white text-center"><span class="text-lblue">Spread the word on social media using the hashtag</span><a href="https://twitter.com/Play_Make_Learn" target="_blank" class="text-white"> #pml2020 <span class=""><u><i class="fab fa-twitter text-orange" aria-hidden="true"></u></i></span></a></p>
+  </div>
+  
+  <div class="container-fluid bg-dblue pad5">
+        <div class="container">
+          <div class="row">
+            <p class="text-white text-center"><span class="text-lblue">Spread the word on social media using the hashtag</span><a href="https://twitter.com/Play_Make_Learn" target="_blank" class="text-white"> #pml2020 <span class=""><u><i class="fab fa-twitter text-orange" aria-hidden="true"></u></i></span></a></p>
+          </div>
+        </div>
       </div>
-    </div>
-  </div>
-  </div>
 
   <!-- Previous Conferences 
   <div class="container-fluid bg-dblue">
@@ -89,27 +89,24 @@
     </div>
   </div>-->
 
-  
-
 </div>
-
 
 
 <!-- Twitter -->
 <div class="col-xs-6">
-          <div class="row">
-            <a href="https://twitter.com/Play_Make_Learn" target="_blank" class="navlink text-white">
-              <span class="text-orange"><i class="fab fa-twitter" aria-hidden="true"></i></span>
-            </a>
-          </div>
-        </div>
-        <!-- Youtube -->
-        <div class="col-xs-6">
-          <div class="row">
-            <a href="https://www.youtube.com/channel/UCpw_H3Y0L3-LeJYpbydig0Q"  target="_blank" class="navlink text-white">
-              <span class="text-orange"><i class="fab fa-youtube" aria-hidden="true"></i></span>
-            </a>
-          </div>
-        </div>
+  <div class="row">
+    <a href="https://twitter.com/Play_Make_Learn" target="_blank" class="navlink text-white">
+      <span class="text-orange"><i class="fab fa-twitter" aria-hidden="true"></i></span>
+    </a>
+  </div>
+</div>
+<!-- Youtube -->
+<div class="col-xs-6">
+  <div class="row">
+    <a href="https://www.youtube.com/channel/UCpw_H3Y0L3-LeJYpbydig0Q"  target="_blank" class="navlink text-white">
+      <span class="text-orange"><i class="fab fa-youtube" aria-hidden="true"></i></span>
+    </a>
+  </div>
+</div>
 
 
